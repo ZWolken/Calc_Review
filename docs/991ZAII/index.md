@@ -7,7 +7,7 @@ has_toc: false
 ---
 # **[fx-ES PLUS(2nd edition)]115ES PLUS 2nd & 991ZA PLUS II简评**
 
-![fx-115ES PLUS 2nd edition & fx-991ZA PLUS II](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_start.jpg "fx-115ES PLUS 2nd edition & fx-991ZA PLUS II")
+![fx-115ES PLUS 2nd edition & fx-991ZA PLUS II](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/01_start.jpg "fx-115ES PLUS 2nd edition & fx-991ZA PLUS II")
 
 ## 阅读须知
 1.  除非另有声明，本文的文字、图片等均为本人创作及拍摄，未经许可不得以任何形式对本文的全部或部分内容进行转载、复制、改编、发布至其他平台等。
@@ -39,18 +39,18 @@ has_toc: false
 介于贴吧内已有@喜羊羊对fx-115ES PLUS 2nd edition的[相关简略评测](https://tieba.baidu.com/p/7591156428)，本文将不会再对两机型中fx-115ES PLUS 2nd edition已存在的功能做过多评测。
 
 下方图片为fx-ES PLUS 2nd edition的全部型号（应该是全部）（部分信息来源：[fx-ES PLUS Emulator Subscription](https://edu.casio.com/products/classroom/es_plus/)）
-![fx-ES_PLUS_2nd_edition_list](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_list.png "fx-ES PLUS 2nd edition的全部型号列表")
+![fx-ES_PLUS_2nd_edition_list](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/02_list.png "fx-ES PLUS 2nd edition的全部型号列表")
 
 ## 包装与外观
 如图所示，两者均使用塑封包装，拆开之后便无法复原。
-![包装正面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/03_pack.jpg "包装正面")
+![包装正面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/03_pack.jpg "包装正面")
 
 两者均为泰国制造生产。
-![包装背面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/04_pack_back.jpg "包装背面")
+![包装背面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/04_pack_back.jpg "包装背面")
 
 保护壳外专门套了一层塑料膜，猜测是为了防止运输振动磨损卡扣。
-![保护壳膜](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/05_plastic.jpg)
-![保护壳膜](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/06_cover_plastic.jpg)
+![保护壳膜](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/05_plastic.jpg)
+![保护壳膜](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/06_cover_plastic.jpg)
 
 ### 正面
 很显然，升级后的fx-991ZA PLUS II使用了逗号(comma)作为小数分隔符，而在原型号fx-991ZA PLUS使用的是点号(decimal point)，具体原因后文会详细说明。
@@ -58,11 +58,11 @@ has_toc: false
 保护壳上的贴纸沿用了fx-ES PLUS的设计，并根据计算器的颜色将背景改为了白色。
 
 虽说为泰国制造，但其印刷质量对比以前已经有了改进。
-![正面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/07_front.jpg "正面")
+![正面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/07_front.jpg "正面")
 
 ### 背面
 可以看到带太阳能的ES PLUS 2nd edition系列型号计算器并没有对电池仓设计开孔和盖子。
-![背面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/08_back.jpg "背面")
+![背面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/08_back.jpg "背面")
 
 ### 入门说明(Startup Guide)
 从2019年开始的卡西欧大部分计算器生产线都仅附带了简要的入门说明来取代了原有的说明书~~（什么，环保.jpg）~~，这两款机型也是如此。
@@ -70,33 +70,33 @@ has_toc: false
 可以看到fx-115ES PLUS 2nd edition附带了英语、西班牙语(Spanish)的入门说明以及一张保修告知。
 
 而fx-991ZA PLUS II则附带了英语、祖鲁语(Zulu)、南非语/南非荷兰语(Afrikaans)三语种的入门说明，与fx-991ZA PLUS II的外包装正面右下角所写的一致："*Afrikaans, English & Zulu User's Guides are included*"
-![入门说明](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/09_startup.jpg "入门说明")
+![入门说明](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/09_startup.jpg "入门说明")
 
 其中在fx-991ZA PLUS II附带的三语种的入门说明的最后都写明了南非的授权进口经销商为JAMES RALPH (PTY) LTD，并给出了授权进口经销商的网站地址。（但是越南销售的型号其入门说明却并没有写出卡西欧在越南的授权进口经销商为BITEX）
-![授权进口经销商](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/10_ltd.jpg "授权进口经销商")
+![授权进口经销商](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/10_ltd.jpg "授权进口经销商")
 
 ### 保护壳
 在@喜羊羊对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可以做到从下方或上方扣上。
-![保护壳](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/11_cover.jpg "保护壳")
+![保护壳](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/11_cover.jpg "保护壳")
 
 ## 拆机
 后期至今的泰国产的机型在太阳能面板背部和显示屏背部都用一张透明胶粘贴在了一起，猜测是为了防止松脱。
 
 从这里也可以看出带太阳能的ES PLUS 2nd edition系列型号计算器并没有对电池仓设计开槽，而在入门说明和说明书中都是写明换电池需要拧下全部6颗螺丝打开后盖。（螺丝真的非常非常紧）
-![拆机](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/12_inside_1.jpg "拆机")
+![拆机](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/12_inside_1.jpg "拆机")
 
 从电路板的印刷文字可以得知我这台fx-115ES PLUS 2nd edition的生产时间为2022年第9周，而fx-991ZA PLUS II的生产时间为22年的第24周。
-![拆机内部1](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/13_insde_2.jpg "拆机内部1")
-![拆机内部2](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/14_inside_3.jpg "拆机内部2")
+![拆机内部1](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/13_insde_2.jpg "拆机内部1")
+![拆机内部2](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/14_inside_3.jpg "拆机内部2")
 
 ## 自检
 ES PLUS 2nd edition系列与ClassWiz CW系列一样，具有假自检画面，这里就不贴图了，在@喜羊羊对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可自行前往查看。
 
 按下[SHIFT][7]+[ON]后接着按[9]后一路[SHIFT]即可看到自检的序列号界面。
-![自检](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/15_test.jpg "自检")
+![自检](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/15_test.jpg "自检")
 
 ES PLUS 2nd Edition开始引入第三自检，`[SHIFT]` `[7]` +`[ON]`后接着按`[6]`即可进入。
-![第三自检](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/16_3rdtest.jpg "第三自检")
+![第三自检](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/16_3rdtest.jpg "第三自检")
 
 ## 开始（Get Started）
 按下`[MODE]`后再按下`[0]`，会出现如下的界面。
@@ -104,52 +104,52 @@ ES PLUS 2nd Edition开始引入第三自检，`[SHIFT]` `[7]` +`[ON]`后接着�
 扫描二维码进入网站并输入计算器的ID编号即可验证真伪以及查看在线用户说明书。
 
 显示的二维码并不会刷新变动。
-![开始（Get Started）](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/17_id.jpg "开始（Get Started）")
+![开始（Get Started）](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/17_id.jpg "开始（Get Started）")
 
 ## 精度测试
 内部精度保持在15位。
-![内部精度](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/18_precison.jpg "内部精度")
+![内部精度](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/18_precison.jpg "内部精度")
 
 浮点运算的精度保持在40位。
-![浮点运算精度](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/19_floating.jpg "浮点运算精度")
+![浮点运算精度](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/19_floating.jpg "浮点运算精度")
 
 不含π的算式结果含π的BUG依然可以复现。
-![含π的BUG](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/20_pibug.jpg "含π的BUG")
+![含π的BUG](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/20_pibug.jpg "含π的BUG")
 
 ## 系统设置
-![系统设置](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/21_setup.jpg "系统设置")
+![系统设置](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/21_setup.jpg "系统设置")
 ### 显示格式-常规(Norm)
 fx-991ZA PLUS II和fx-82ZA PLUS II的显示格式初始默认（缺省）值均为Norm2，而包括fx-115ES PLUS 2nd edition在内的其他ES PLUS 2nd edition系列型号和旧型号fx-ZA PLUS基本均为Norm1。
-![常规(Norm)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/22_norm.jpg "常规(Norm)")
+![常规(Norm)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/22_norm.jpg "常规(Norm)")
 
 ### 循环小数设置(Rdec: Recurring Decimal Format)
 fx-115ES PLUS 2nd edition跟fx-115ES PLUS一样有循环小数的功能，设置菜单内自然存在。
 
 ### 自动关机时间(APO: Auto Power Off)
 fx-991ZA PLUS II和fx-991ZA PLUS一样具有自动关机时间的设置菜单，在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS、fx-92 College 2D+共4个地区的型号。fx-115ES PLUS 2nd edition和fx-115ES PLUS一样并不具备自动关机时间的设置菜单。
-![循环小数&自动关机时间](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/23_rdec_apo.jpg "循环小数&自动关机时间")
+![循环小数&自动关机时间](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/23_rdec_apo.jpg "循环小数&自动关机时间")
 
 ## 模式
 从键盘按键功能印刷也可猜测fx-991ZA PLUS II和fx-115ES PLUS 2nd edition均为11模式，实际也是如此，除了fx-991ES PLUS基础的八模式和分布计算、不等式计算外，fx-991ZA PLUS II和fx-115ES PLUS 2nd edition的区别在于：fx-991ZA PLUS II配备了比例计算，fx-115ES PLUS 2nd edition配备了验证计算。~~虽然这俩都是鸡肋模式就是了~~
-![模式_1](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/24_mode_1.jpg "模式_1")
-![模式_2](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/25_mode_2.jpg "模式_2")
+![模式_1](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/24_mode_1.jpg "模式_1")
+![模式_2](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/25_mode_2.jpg "模式_2")
 
 fx-991ZA PLUS II相比fx-115ES PLUS 2nd edition少了Int、Intg、大π（累乘）、循环节函数。
 
 fx-991ZA PLUS II相比fx-991ZA PLUS增加了GCD、LCM、÷R函数，小数分隔符由点号(decimal point)改为了逗号(comma)，具体原因后文会讲。
-![区别](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/26_different.jpg "区别")
-![fx-991ZA_PLUS](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/27_fx-991ZA_PLUS.png "fx-991ZA PLUS")
+![区别](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/26_different.jpg "区别")
+![fx-991ZA_PLUS](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/27_fx-991ZA_PLUS.png "fx-991ZA PLUS")
 注：由于未购入fx-991ZA PLUS，fx-991ZA PLUS的图片来自南非官方进口经销商的网站[JAMES RALPH (PTY) LTD](https://www.casio.jamesralphedu.co.za/worksheets/p/casio-fx-991za-plus-complex-numbers-binary-decimal-angle-conversations)。
 
 ### 矩阵运算(MATRIX)
 Ref/Rref函数两款机型均拥有。
-![矩阵运算(MATRIX)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/28_matrix.jpg "矩阵运算(MATRIX)")
+![矩阵运算(MATRIX)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/28_matrix.jpg "矩阵运算(MATRIX)")
 ### 其他模式没啥好讲的（摆烂
 
 ## 常数(CONST)
 大部分的fx-ES PLUS和ClassWiz X系列机型的常数值均基于CODATA(2010)推荐值，而fx-991ZA PLUS II和fx-115ES PLUS 2nd edition作为fx-ES PLUS 2nd edition系列的机型，其常数值均更新至基于CODATA(2014)推荐值。
-![常数(CONST)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/29_const.jpg "常数(CONST)")
-![常数(CONST)_fx-115ES PLUS](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/30_const_115ES.jpg "常数(CONST)_fx-115ES PLUS")
+![常数(CONST)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/29_const.jpg "常数(CONST)")
+![常数(CONST)_fx-115ES PLUS](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/991ZAII/30_const_115ES.jpg "常数(CONST)_fx-115ES PLUS")
 （fx-115ES PLUS的图片由[@喜羊羊](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)提供）
 
 注：注：fx-991DE PLUS的常数值基于CODATA(2007)推荐值；fx-991CE X的常数值基于CODATA(2014)推荐值；fx-991RS X的常数值基于CODATA(2018)推荐值；ClassWiz CW系列的常数值基于CODATA(2018)推荐值。
