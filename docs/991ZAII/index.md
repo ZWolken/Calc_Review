@@ -139,7 +139,7 @@ fx-991ZA PLUS II相比fx-115ES PLUS 2nd edition少了Int、Intg、大π（累乘
 fx-991ZA PLUS II相比fx-991ZA PLUS增加了GCD、LCM、÷R函数，小数分隔符由点号(decimal point)改为了逗号(comma)，具体原因后文会讲。
 ![区别](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/26_different.jpg "区别")
 ![fx-991ZA_PLUS](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/27_fx-991ZA_PLUS.png "fx-991ZA PLUS")
-注：由于未购入fx-991ZA PLUS，fx-991ZA PLUS的图片来自南非销售网站[JAMES RALPH (PTY) LTD](https://www.casio.jamesralphedu.co.za/worksheets/p/casio-fx-991za-plus-complex-numbers-binary-decimal-angle-conversations)。
+注：由于未购入fx-991ZA PLUS，fx-991ZA PLUS的图片来自南非官方进口经销商的网站[JAMES RALPH (PTY) LTD](https://www.casio.jamesralphedu.co.za/worksheets/p/casio-fx-991za-plus-complex-numbers-binary-decimal-angle-conversations)。
 
 ### 矩阵运算(MATRIX)
 Ref/Rref函数两款机型均拥有。
