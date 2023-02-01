@@ -21,7 +21,7 @@ has_toc: false
 ## 写在前面
 感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)和[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)对本文的补充以及存在错误的指正！
 
-**异常相关初探的相关内容均由[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)进行撰写。**
+**异常相关初探的内容均由[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)进行撰写。**
 
 fx-991CW跟fx-991EX一样属于非本地化（本土化）的国际性型号，在全球多个国家地区都有上市销售，但是每个国家地区的销售价格和型号都各有差异，从价格和颜色方面考虑最终我选择了从印尼买入fx-991CW的粉色机型。
 
