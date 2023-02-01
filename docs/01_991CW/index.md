@@ -191,7 +191,7 @@ CALC相比X系列最后多了一个执行[EXE]按钮，而这个执行[EXE]按�
 
 科技总是在进步的，相信ClassWiz CW系列并不会是科学函数计算器的终点，对于ClassWiz CW系列的评价，在大部分地区市场上市销售前就下定论是不妥的，未来的计算器市场会如何发展？时间会向我们展示一切。
 
-## 
+## Fin.
 最后，跟CW系列机型评测的前两位一样，让我们以这一新版的CASIO关机画面作为本次评测的结束：
 ![Fin.](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/99_end.jpg "Boost your Curiosity")
 
