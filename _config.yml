@@ -3,14 +3,14 @@ remote_theme: just-the-docs/just-the-docs
 
 # Enable or disable the site search
 # Supports true (default) or false
-search_enabled: true
+search_enabled: false
 
 # Set a path/url to a logo that will be displayed instead of the title
-# logo: "/assets/images/archive.png"
+logo: "/assets/images/icon.png"
 
 # Aux links for the upper right navigation
 aux_links:
-  "GitHub":
+  "GitHub原存档点":
     - "//github.com/ZWolken/Calc_Review"
 
 # Makes Aux links open in a new tab. Default is false
