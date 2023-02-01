@@ -7,6 +7,7 @@ has_toc: false
 ---
 
 # **[fx-ES PLUS(2nd edition)]115ES PLUS 2nd & 991ZA PLUS II简评**
+>图片若无法正常显示，请检查当前网络环境是否能正常访问GitHub。
 
 ![fx-115ES PLUS 2nd edition & fx-991ZA PLUS II](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/01_start.jpg "fx-115ES PLUS 2nd edition & fx-991ZA PLUS II")
 
