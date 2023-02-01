@@ -1,10 +1,11 @@
 ---
 layout: default
-title: 115ES PLUS 2nd & 991ZA PLUS II
-nav_order: 2
+title: [fx-ES PLUS(2nd edition)]115ES PLUS 2nd & 991ZA PLUS II简评
+nav_order: 3
 has_children: false
 has_toc: false
 ---
+
 # **[fx-ES PLUS(2nd edition)]115ES PLUS 2nd & 991ZA PLUS II简评**
 
 ![fx-115ES PLUS 2nd edition & fx-991ZA PLUS II](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/01_start.jpg "fx-115ES PLUS 2nd edition & fx-991ZA PLUS II")
@@ -14,10 +15,10 @@ has_toc: false
 2. 文中的信息均基于发帖日期所能获取到的最新信息，当读者阅读时信息可能已有变化，一切均以最新消息为准。
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
 4. 文中出现的所有产品均为本人自费购买，本文不构成任何购买建议。
->注：部分阅读须知内容来自[@喜羊羊](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
+>注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 ## 写在前面
-感谢[@喜羊羊](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)和[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)对本文的补充以及存在错误的指正！
+感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)和[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)对本文的补充以及存在错误的指正！
 
 卡西欧并没有对fx-ES(MS) 2nd edition定义过官方的系列名，本文中所说的“ES PLUS 2nd edition系列”仅为**个人定义**。
 
@@ -36,7 +37,7 @@ has_toc: false
 
 根据维基百科的说明，在1925年前南非的官方语言一直是荷兰语(Dutch)，南非(South Africa)在荷兰语中是Zuid-Afrika，这也便是ZA的由来， 在ISO 3166中，也是规定了ZA为南非的Alpha-2 code。
 
-介于贴吧内已有@喜羊羊对fx-115ES PLUS 2nd edition的[相关简略评测](https://tieba.baidu.com/p/7591156428)，本文将不会再对两机型中fx-115ES PLUS 2nd edition已存在的功能做过多评测。
+介于贴吧内已有@喜羊羊第x代对fx-115ES PLUS 2nd edition的[相关简略评测](https://tieba.baidu.com/p/7591156428)，本文将不会再对两机型中fx-115ES PLUS 2nd edition已存在的功能做过多评测。
 
 下方图片为fx-ES PLUS 2nd edition的全部型号（应该是全部）（部分信息来源：[fx-ES PLUS Emulator Subscription](https://edu.casio.com/products/classroom/es_plus/)）
 ![fx-ES_PLUS_2nd_edition_list](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/02_list.png "fx-ES PLUS 2nd edition的全部型号列表")
@@ -76,7 +77,7 @@ has_toc: false
 ![授权进口经销商](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/10_ltd.jpg "授权进口经销商")
 
 ### 保护壳
-在@喜羊羊对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可以做到从下方或上方扣上。
+在@喜羊羊第x代对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可以做到从下方或上方扣上。
 ![保护壳](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/11_cover.jpg "保护壳")
 
 ## 拆机
@@ -90,7 +91,7 @@ has_toc: false
 ![拆机内部2](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/14_inside_3.jpg "拆机内部2")
 
 ## 自检
-ES PLUS 2nd edition系列与ClassWiz CW系列一样，具有假自检画面，这里就不贴图了，在@喜羊羊对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可自行前往查看。
+ES PLUS 2nd edition系列与ClassWiz CW系列一样，具有假自检画面，这里就不贴图了，在@喜羊羊第x代对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可自行前往查看。
 
 按下[SHIFT][7]+[ON]后接着按[9]后一路[SHIFT]即可看到自检的序列号界面。
 ![自检](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/15_test.jpg "自检")
@@ -150,7 +151,7 @@ Ref/Rref函数两款机型均拥有。
 大部分的fx-ES PLUS和ClassWiz X系列机型的常数值均基于CODATA(2010)推荐值，而fx-991ZA PLUS II和fx-115ES PLUS 2nd edition作为fx-ES PLUS 2nd edition系列的机型，其常数值均更新至基于CODATA(2014)推荐值。
 ![常数(CONST)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/29_const.jpg "常数(CONST)")
 ![常数(CONST)_fx-115ES PLUS](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/02_991ZAII/30_const_115ES.jpg "常数(CONST)_fx-115ES PLUS")
-（fx-115ES PLUS的图片由[@喜羊羊](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)提供）
+（fx-115ES PLUS的图片由[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)提供）
 
 注：注：fx-991DE PLUS的常数值基于CODATA(2007)推荐值；fx-991CE X的常数值基于CODATA(2014)推荐值；fx-991RS X的常数值基于CODATA(2018)推荐值；ClassWiz CW系列的常数值基于CODATA(2018)推荐值。
 
