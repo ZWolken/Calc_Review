@@ -150,7 +150,7 @@ Ref/Rref函数两款机型均拥有。
 大部分的fx-ES PLUS和ClassWiz X系列机型的常数值均基于CODATA(2010)推荐值，而fx-991ZA PLUS II和fx-115ES PLUS 2nd edition作为fx-ES PLUS 2nd edition系列的机型，其常数值均更新至基于CODATA(2014)推荐值。
 ![常数(CONST)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/29_const.jpg "常数(CONST)")
 ![常数(CONST)_fx-115ES PLUS](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/30_const_115ES.jpg "常数(CONST)_fx-115ES PLUS")
-（fx-115ES PLUS的图片由@喜羊羊 提供）
+（fx-115ES PLUS的图片由[@喜羊羊](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)提供）
 
 注：注：fx-991DE PLUS的常数值基于CODATA(2007)推荐值；fx-991CE X的常数值基于CODATA(2014)推荐值；fx-991RS X的常数值基于CODATA(2018)推荐值；ClassWiz CW系列的常数值基于CODATA(2018)推荐值。
 
