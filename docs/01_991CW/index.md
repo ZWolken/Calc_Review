@@ -30,36 +30,42 @@ fx-991CW跟fx-991EX一样属于非本地化（本土化）的国际性型号，�
 本文还会出现fx-880BTG、fx-991EX等型号的计算器作为对比，由于@喜羊羊第x代对fx-880BTG的评测为英语环境，本评测贴会将fx-880BTG设置为越南语进行对照评测（相关越南语会提供翻译）。
 
 ## 简要介绍
-fx-991CW作为fx-991EX的升级型号，其定位跟fx-991EX基本一致：面向全球销售。截至至发帖时，fx-991CW已在韩国、中国台湾地区、英国、东南亚、南亚、中东地区上市发售。在截至至发帖时收集到的信息中，粉色型号的fx-991CW仅在泰国、印度尼西亚、菲律宾、韩国、中东地区上市发售。（fx-991CW仅有黑粉两种配色，而fx-991EX拥有黑粉蓝三种配色）
+fx-991CW作为fx-991EX的升级型号，其定位跟fx-991EX基本一致：面向全球销售。截至至发帖时，fx-991CW已在韩国、中国台湾地区、英国、东南亚、南亚、中东地区上市发售。
+
+在截至至发帖时收集到的信息中，粉色型号的fx-991CW仅在泰国、印度尼西亚、菲律宾、韩国、中东地区上市发售。（fx-991CW仅有黑粉两种配色，而fx-991EX拥有黑粉蓝三种配色）
 
 ![fx-991CW on Amazon.in](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/02_amazon_in.png "fx-991CW on Amazon.in")
-印度的售价非常便宜，售价仅为₹1595（按发帖时的汇率₹1530折合约126RMB）且时常有打折，但是没有粉色型号，且找到的印度代购所需要的代购费属实过高（单笔需要300RMB代购费），便放弃从印度购买。我手上的这款粉色型号的fx-991CW是请人帮忙从印尼购买带回来的，并不是稳定的购买渠道，之前找到的其他印尼代购的稳定渠道其运费也一样是十分昂贵的。
+印度的售价非常便宜，售价仅为₹1595（按发帖时的汇率₹1530折合约126RMB）且时常有打折，但是没有粉色型号，且找到的印度代购所需要的代购费属实过高（单笔需要300RMB代购费），便放弃从印度购买。
+
+我手上的这款粉色型号的fx-991CW是请人帮忙从印尼购买带回来的，并不是稳定的购买渠道，之前找到的其他印尼代购稳定渠道的运费也一样是十分昂贵的。
 
 从各国、地区的购买网站来看，fx-991CW的售价基本是fx-991EX的110%~120%左右。（fx-880BTG的售价是fx-580VN X的110%左右；fx-991LA CW的售价是fx-991LA X的105%左右）
 
 ## 包装与外观
-显然，fx-991CW采用了纸盒包装，其封面设计语言跟ClassWiz X系列（第一代）的最新包装保持一致（如图右侧为fx-991DE X的最新包装，fx-800DE CW的包装设计也是如此，详情可参见贴吧内fx-800DE CW的评测）。我所选采购的印尼商家给每台fx-991CW额外配了一枚LR44纽扣电池（直接用透明胶粘在了包装上的孔里）。
+显然，fx-991CW采用了纸盒包装，其封面设计语言跟ClassWiz X系列（第一代）的最新包装保持一致（如图右侧为fx-991DE X的最新包装，fx-800DE CW的包装设计也是如此，详情可参见贴吧内的[fx-800DE CW评测](https://tieba.baidu.com/p/7976028225)）。我所选采购的印尼商家给每台fx-991CW额外配了一枚LR44纽扣电池（直接用透明胶粘在了包装上的孔里）。
 ![包装正面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/03_pack.jpg "包装正面")
 
-由于是从印度尼西亚购买的，作为非英语国家，其包装背面贴上了印尼语的对于授权进口经销商和产品的相关说明。（KARTU GARANSI=保修卡；GARANSI TAHUN=保修一年）
+印度尼西亚作为非英语为官方语言的国家，从印尼境内购买的卡西欧计算器其包装背面贴上了印尼语的对于授权进口经销商和产品的相关说明。（KARTU GARANSI=保修卡；GARANSI TAHUN=保修一年）
 ![包装背面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/04_pack_back.jpg "包装背面")
 
-可以看到fx-991CW的包裹实际非常薄（就计算器+两张纸的厚度）。
+可以看到fx-991CW的包装跟fx-880BTG一样非常薄（就计算器+两张纸的厚度）。
 ![包装侧面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/05_pack_side.jpg "包装侧面")
 
-打开包装后一共有图示几样物品。
+打开包装后一共有图示的几样物品。
 
-跟fx-880BTG一样，fx-991CW本体外只有一个塑料薄膜袋，总之我对运输过程中的防损坏这点保持怀疑。
+跟fx-880BTG一样，fx-991CW本体外只套有一个塑料薄膜袋，总之我对运输过程中的能否防止摩擦或损坏保持怀疑。
 ![全部物品](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/06_all_items.jpg "全部物品")
 
 ### 正面
 fx-991CW具有太阳能的功能。
 
-fx-991CW的按键排布跟fx-880BTG基本一致，虽说CW系列将大部分功能塞进了CATALOG内，但从按键印刷上还是能稍微看出点功能差异的，显然fx-991CW跟fx-991EX一样不具备PreAns功能。
+fx-991CW的按键排布跟fx-880BTG基本一致，虽说CW系列将大部分功能塞进了菜单内，但从按键印刷上还是能稍微看出点功能差异的，显然fx-991CW跟fx-991EX一样不具备PreAns功能。
 ![正面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/07_front.jpg "正面")
 
 ### 背面
 目前新生产的卡西欧计算器除了国内大陆型号外其他型号基本均为泰产。
+
+可以看到右上角给电池专门开槽预留了换电池的孔位。
 ![背面](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/08_back.jpg "背面")
 
 ### 入门说明(Startup Guide)
@@ -67,11 +73,13 @@ fx-991CW的按键排布跟fx-880BTG基本一致，虽说CW系列将大部分功�
 ![入门说明(Startup Guide)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/09_startup.jpg "入门说明(Startup Guide)")
 
 ### 计算器使用指南(Pedoman Pemakaian Kalkulator)（印度尼西亚のみ）
-由于印度尼西亚的官方语言并非英语，而是印度尼西亚语（印尼语）(Bahasa Indonesia)，但是fx-991CW目前只有英语版本的说明书且没有当地的保修政策，于是在印尼销售的fx-991CW中都有这么一张计算器使用指南卡。其内容包括：注意事项(Hal-Hal Yang Perlu Diperhatikan)、安全须知(Tindakan Pencegahan Keselamatan)、资源说明(Sumber Daya)、设备维护说明(Petunjuk Pemeliharaan Perangkat)。
+由于印度尼西亚的官方语言并非英语，而是印度尼西亚语（印尼语）(Bahasa Indonesia)，但是fx-991CW目前只有英语版本的说明书且没有当地的保修政策，于是在印尼销售的fx-991CW中都有这么一张计算器使用指南卡（由于外包装没有封贴，合理猜测这张纸是在印尼进口的时候才打开包装塞入的）。其内容包括：注意事项(Hal-Hal Yang Perlu Diperhatikan)、安全须知(Tindakan Pencegahan Keselamatan)、资源说明(Sumber Daya)、设备维护说明(Petunjuk Pemeliharaan Perangkat)。
 ![计算器使用指南(Pedoman Pemakaian Kalkulator)](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/10_idstartup.jpg "计算器使用指南(Pedoman Pemakaian Kalkulator)")
 
 ### 保护盖
-CW系列采用了全新的卡扣式保护盖而非滑动式保护壳，具体内容在fx-880BTG中已经有详细说明。
+CW系列采用了全新的卡扣式保护盖而非滑动式保护壳，材质为塑料，具体内容在fx-880BTG中已经有详细说明。
+
+由于本体上方插槽宽度比下方的插槽要宽，保护盖无法上下颠倒后盖上（fx-880BTG也是如此）。
 ![保护盖](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/11_cover.jpg "保护盖")
 本人对其观点与@喜羊羊第x代一致，对于保护盖的变动我认为不尽如人意。
 
@@ -86,13 +94,15 @@ ClassWiz X系列（第一代）的泰产印刷质量确实不佳，但是ClassWi
 相对的，黑色+金色或蓝色+黄色（可见[fx-880BTG评测](https://tieba.baidu.com/p/8088620034)）的配色或者我这台fx-991CW粉色+深紫色的配色就十分好辨认。
 
 ## 拆机
-fx-991CW由于拥有太阳能板，其电路用的还是软导线。但在泰国生产的新批次的全部机型，其导线的包裹物已经变成了更硬的材质；由于fx-880BTG没有太阳能板，电源线改为了金属条，并且屏幕塑料背板上的卡扣与其配合的很好，若不将金属条卸下，屏幕完全无法移动。
+fx-991CW由于拥有太阳能板，或许是4根金属条无法布局还是什么其他原因，其电路用的还是导线。但相比以前的国产机型，在泰国生产的新批次的全部机型其导线的包裹物已经变成了更硬的材质；由于fx-880BTG没有太阳能板，电池仓两侧的电源线便改为了金属条，并且屏幕塑料背板上的卡扣与其配合的很好，若不将金属条卸下，屏幕完全无法移动。
+
+太阳能板背部贴上了海绵缓冲垫加以固定和防震。
 ![拆机](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/13_inside_1.jpg "拆机")
 
-两者对比不难看出屏幕塑料背板为有太阳能板的电源线路和无太阳能板的电源线路都设计了不同的卡扣。
+两者对比不难看出：屏幕塑料背板为有太阳能板的电源线路和无太阳能板的电源线路都设计了不同的卡扣。
 ![屏幕塑料背板卡扣](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/14_inside_2.jpg "屏幕塑料背板卡扣")
 
-如图，一个不好的消息已经展现出了：红色的导线偏短，无法放到屏幕侧边，这意味着屏幕无法完全翻转过来。若要将屏幕翻过来，唯一的方法是将导线拆下。
+如图，一个不好的消息已经展现出了：图中电池正极（红色）的导线偏短，无法放到屏幕侧边，这意味着屏幕无法完全翻转过来。若要将屏幕翻过来，唯一的方法是将导线拆下。
 ![导线](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/15_inside_3.jpg "导线")
 
 ## 自检
@@ -114,19 +124,26 @@ fx-991CW由于拥有太阳能板，其电路用的还是软导线。但在泰国
 
 ## “四按一松”
 CW系列“四按一松”的变化在[fx-880BTG的评测](https://tieba.baidu.com/p/8088620034)中已经有详细说明。
-![“四按一松”](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/22_kiko.jpg "“四按一松”")
+![“四按一松”](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/22_1_kiko.jpg "“四按一松”")
+
+## 开始（Get Started）
+该界面既可以在主屏幕(HOME)中按下`[SETTINGS]`进入，也可以在设置菜单中进入。
+
+正如在fx-880BTG的评测贴所说的，该界面左侧是计算器的ID，界面右侧是一个二维码，扫描后将打开CASIO WES网站，可以在网站内查阅在线说明书，或者根据ID验证计算器是否为正品。
+![开始（Get Started）](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/22_2_getstarted.jpg "开始（Get Started）")
 
 ## 功能区别
-fx-991CW的总应用数跟fx-880BTG一致，为13个应用，从图标可以看出屏幕支持灰度显示，由于应用相关的具体内容在fx-880BTG中已经有详细说明，这里仅介绍些两者有区别的。
+fx-991CW的总应用数跟fx-880BTG一致，为13个应用，从图标可以看出屏幕支持灰度显示。由于应用相关的具体内容在fx-880BTG中已经有详细说明，这里仅介绍些两者有区别的地方。
 ![应用区别](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/23_differ_app.jpg "应用区别")
 
-正如前文提到的，fx-991CW跟fx-991EX一样不具备PreAns功能。
+正如前文所提到的，fx-991CW跟fx-991EX一样不具备PreAns功能。
 ![PreAns功能](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/24_differ_preans.jpg "PreAns功能")
 
-进入SETTINGS（设置）-System Settings（系统设置），可以看到fx-991CW和fx-991EX一样拥有多行字体(MultiLine Font)的设置菜单。（Sáng/tối Màn Hình=对比度；Tự động tắt=自动关机；Ngôn ngữ=语言）
+进入SETTINGS（设置）-System Settings（系统设置），可以看到fx-991CW和fx-991EX一样拥有多行字体(MultiLine Font)的设置菜单。
+（Sáng/tối Màn Hình=对比度；Tự động tắt=自动关机；Ngôn ngữ=语言）
 ![多行字体](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/25_differ_multi.jpg "多行字体")
 
-进入[CATALOG]菜单，可以看出fx-991CW跟fx-991EX一样，并不具备大π（累乘）、÷R、GCD、LCM、循环节、Int、Intg函数功能，fx-991CW并不具备周期表和原子质量的功能。（我也不知道fx-880BTG为啥会具备）
+进入[CATALOG]菜单，可以看到fx-991CW跟fx-991EX一样，并不具备大π（累乘）、÷R、GCD、LCM、循环节、Int、Intg函数功能，fx-991CW并不具备周期表和原子质量的功能。（我也不知道fx-880BTG为啥会具备）
 
 （Số dư=求余）
 ![大π（累乘）](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/26_differ_sum.jpg "大π（累乘）")
@@ -140,12 +157,12 @@ fx-991CW的总应用数跟fx-880BTG一致，为13个应用，从图标可以看�
 (Hằng số Khoa học=科学常数；Chuyển đổi Đơn Vị=单位转换；Bảng Nguyên tử=元素周期表；Khác=其他）
 ![元素周期表](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/29_differ_atomic.jpg "元素周期表")
 
-由于没有循环节函数功能，算式为循环小数的结果下，fx-991CW的[FORMAT]菜单内并没有转换成含循环节格式的选项。
+由于没有循环节小数功能，在算式结果为循环小数的情况下，fx-991CW的[FORMAT]菜单内并没有转换成含循环节格式的选项。
 
 （Chuẩn=标准；Thập phân=小数(Decimal)；Số thập phân tuần hoàn=循环小数；Phân số Ko Thực Sự=假分数(Improper Fraction)）
 ![循环节格式](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/30_differ_format.jpg "循环节格式")
 
-按下`[TOOLS]`，可以很清楚的看到fx-991CW不具备CALC和Verify（验证）模式。
+按下`[TOOLS]`，可以很清楚的看到fx-991CW不具备CALC和验证(Verify)模式。
 
 （Hoàn tác=撤销；Kiểm chứng Bật=验证(Verify)）
 ![[TOOLS]](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/31_differ_tools.jpg "[TOOLS]")
@@ -175,21 +192,24 @@ ClassWiz X（第一代）系列的100an在CW系列中失效，且设置控制区
 对于二级字符表，F0部分有显著变化，原先的剪切粘贴图标被挪到了F0，许多用于互动菜单的字符也添加到了这里。
 ![二级字符表](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/37_abnormal_4.png "二级字符表")
 
-顺便谈点关于小字体的事项：为什么fx-880BTG没有小字体设置，而fx-991CW有？原因或许在TOOLS里880相比991CW多出来的两项：CALC和验证。
+顺便谈点关于小字体的事项：为什么fx-880BTG没有多行字体(MultiLine Font)即小字体设置，而fx-991CW却有？原因或许在TOOLS里880相比991CW多出来的两项：CALC和验证。
 
-CALC相比X系列最后多了一个执行[EXE]按钮，而这个执行[EXE]按钮是没有小字体的（换言之小字体显示下执行按钮会显示为空格），因此小字体下CALC会恢复大字体，这是CW系列特有的，由此可以推断：有小字体设置的机型应该全部没有CALC。越南语由于某些原因没有设计小字体，因此在越南语环境下表示“真”的Đúng会显示为下面的乱码。
+CALC相比X系列最后多了一个执行(▸Execute)按钮，而这个执行(▸Execute)按钮是没有小字体的（换言之小字体显示下执行按钮会显示为空格），因此小字体下CALC会恢复大字体，这是CW系列特有的，由此可以推断：有小字体设置的机型应该全部没有CALC。越南语由于某些原因没有设计小字体，因此在越南语环境下表示“真”的Đúng会显示为下面的乱码。
 ![Đúng乱码](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/38_abnormal_5.png "Đúng乱码")
+
+注：执行(▸Execute)按钮即为下图所示按钮。
+![执行(▸Execute)按钮](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/39_execute.jpg "执行(▸Execute)按钮")
 
 ## 写在最后
 贴吧内fx-800DE CW和fx-880BTG的评测贴都写了长长的一篇结束语，那我也写点（）
 
-虽然我们大概知道卡西欧在发布了ClassWiz X（第一代）系列的科学函数计算器产品后肯定会开发更新ClassWiz产品线，但是ClassWiz CW系列的推出上市还是有点出乎我们的预期。
+虽然在2014年卡西欧开始发布ClassWiz X（第一代）系列的科学函数计算器产品后，我们知道卡西欧肯定会开发更新ClassWiz产品线，但是ClassWiz CW系列的推出上市还是有点出乎我们的预期。
 
-从其全新的设计语言和全新的操作逻辑来看，我们很难一下子下结论新的CW系列到底是在进步还是在退步。但从实际情况而言，我认识的包括大学室友在内的同学朋友对fx-991CN X的操作基本上是不明白的状态，刚到手的计算器，说明书可能马上就扔一边了（现在的说明书已经比以前的薄很多了），结果就是先别说算复数啥的，可能连第二功能键和第三功能键都不知道怎么输入，切换到其他模式就不知道怎么切换回来了。
+从CW系列全新的设计语言和全新的操作逻辑来看，我们很难一下子下结论新的CW系列到底是在进步还是在退步。但从实际情况而言，我认识的包括大学室友在内的同学朋友对fx-991CN X的操作基本上是不明白的状态，刚到手的计算器，说明书可能马上就扔一边了（现在的说明书已经比以前的薄很多了），结果就是先别说如何计算复数，大部分人可能连第二功能键和第三功能键都不知道怎么输入，切换到其他模式就不知道怎么切换回来了。
 
-相较于ClassWiz X（第一代）系列对于fx-ES PLUS系列的升级保留了大部分的操作逻辑，ClassWiz CW系列其使用已久的设计理念与操作逻辑，似乎是从头开始设计外观和操作逻辑——取消第三功能键；功能函数全都可以通过[CATALOG]菜单和[TOOLS]菜单进行调取使用；第一界面并不是基础计算，而是应用(Apps)，即各个模式的选择菜单——其全新的操作逻辑的设计初衷显然是为了解决前文提到的新手不会使用的这种情况。在降低学习成本和提高输入效率之间，ClassWiz CW系列的设计显然倾向于前者。与之同时，运算精度和速度都更进一步地提升了，作为一个老用户，我确实没法直接说到底是好还是坏。
+相较于ClassWiz X（第一代）系列对于fx-ES PLUS系列的升级保留了大部分的操作逻辑，ClassWiz CW系列的设计理念与操作逻辑似乎是从零全新开始设计的——取消第三功能键；功能函数全都可以通过[CATALOG]菜单和[TOOLS]菜单进行调取使用；第一界面并不是基础计算，而是应用(Apps)，即各个模式的选择菜单——其全新的操作逻辑的设计初衷显然是为了解决前文提到的新手不会使用的这种情况。在降低学习成本和提高输入效率之间，ClassWiz CW系列的设计显然更注重于前者。与之同时，运算精度和速度都更进一步地提升了。
 
-相信随着CW系列在大陆和更多地区的上市，会有更多对于这方面的讨论，但我个人认为，计算器的设计初衷即是为了在上市地区根据当地的需求和规定去方便用户进行计算，其余的包括溢出异常等的只是对计算器的软件和硬件进行的深入研究。
+相信随着CW系列在大陆和更多地区的上市，会有更多对于CW系列的讨论，我个人认为，计算器的设计初衷即是为了在上市地区根据当地的需求和规定去方便用户进行计算，其余的包括溢出异常等的只是对计算器的软件和硬件进行的深入研究。
 
 科技总是在进步的，相信ClassWiz CW系列并不会是科学函数计算器的终点，对于ClassWiz CW系列的评价，在大部分地区市场上市销售前就下定论是不妥的，未来的计算器市场会如何发展？时间会向我们展示一切。
 
