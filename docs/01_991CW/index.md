@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 # **[ClassWiz CW]fx-991CW评测 & CW系列异常初探**
->图片若无法正常显示，请检查当前网络环境是否能正常访问GitHub。
+>若网页中图片无法正常显示，请检查当前网络环境能否正常访问GitHub。
 
 ![fx-991CW](https://raw.githubusercontent.com/ZWolken/Calc_Review/main/assets/images/01_991CW/01_start.jpg "fx-991CW")
 
