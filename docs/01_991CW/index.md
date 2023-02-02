@@ -117,10 +117,11 @@ fx-991CW由于拥有太阳能板，或许是4根金属条无法布局还是什�
 
 按下`[CATALOG]` `[AC]`+`[ON]`后接着按`[8]`即可进入第二自检，显示的按键说明由于键位的改变有所变化。
 ![第二自检_1](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/19_2ndtest_1.jpg "第二自检_1")
+![第二自检_2](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/20_2ndtest_2.jpg "第二自检_2")
+![第二自检_3](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/21_2ndtest_3.jpg "第二自检_3")
 
 按下`[CATALOG]` `[AC]`+`[ON]`后接着按`[6]`即可进入第三自检。
-![第三自检_1](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/20_2ndtest_2.jpg "第三自检_1")
-![第三自检_2](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/21_2ndtest_3.jpg "第三自检_2")
+![第三自检](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/21_3ndtest.jpg "第三自检")
 
 ## “四按一松”
 CW系列“四按一松”的变化在[fx-880BTG的评测](https://tieba.baidu.com/p/8088620034)中已经有详细说明。
