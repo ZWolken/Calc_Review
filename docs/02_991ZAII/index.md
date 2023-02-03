@@ -1,12 +1,12 @@
 ---
 layout: default
-title: [fx-ES PLUS(2nd edition)]115ES PLUS 2nd & 991ZA PLUS II简评
+title: [fx-ES PLUS Series -2nd edition-]115ES PLUS 2nd & 991ZA PLUS II简评
 nav_order: 3
 has_children: false
 has_toc: false
 ---
 
-# **[fx-ES PLUS(2nd edition)]115ES PLUS 2nd & 991ZA PLUS II简评**
+# **[fx-ES PLUS Series -2nd edition-]115ES PLUS 2nd & 991ZA PLUS II简评**
 >若网页中图片无法正常显示，请检查当前网络环境能否正常访问GitHub。
 
 ![fx-115ES PLUS 2nd edition & fx-991ZA PLUS II](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/01_start.jpg "fx-115ES PLUS 2nd edition & fx-991ZA PLUS II")
@@ -15,15 +15,13 @@ has_toc: false
 1.  除非另有声明，本文的文字、图片等均为本人创作及拍摄，未经许可不得以任何形式对本文的全部或部分内容进行转载、复制、改编、发布至其他平台等。
 2. 文中的信息均基于发帖日期所能获取到的最新信息，当读者阅读时信息可能已有变化，一切均以最新消息为准。
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
-4. 文中出现的所有产品均为本人自费购买，本文不构成任何购买建议。
+4. 除非另有提及，文中出现的所有实际产品均为本人自费购买，本文不构成任何购买建议。
 >注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 ## 写在前面
 感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)和[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)对本文的补充以及存在错误的指正！
 
-卡西欧并没有对fx-ES(MS) 2nd edition定义过官方的系列名，本文中所说的“ES PLUS 2nd edition系列”仅为**个人定义**。
-
-在2019年开始陆续更新上市的ES PLUS 2nd edition系列中，只有南非的fx-82ZA PLUS II以及fx-991ZA PLUS II相对于原ES PLUS型号有所升级；而在这个系列的旗舰型号中，又仅仅只有fx-991ZA PLUS II和fx-115ES PLUS 2nd edition的颜色为白色，其他的旗舰型号只有黑色~~（好丑）~~。
+在2019年开始陆续更新上市的fx-ES PLUS Series -2nd edition-系列中，只有南非的fx-82ZA PLUS II以及fx-991ZA PLUS II相对于原ES PLUS型号有所升级；而在这个系列的旗舰型号中，又仅仅只有fx-991ZA PLUS II和fx-115ES PLUS 2nd edition的颜色为白色，其他的旗舰型号只有黑色~~（好丑）~~。
 
 于是我在成功买到越南型号后萌生了购买这两款机型的想法，fx-115ES PLUS 2nd edition在淘宝和亚马逊全球购均能很方便的购买，于是我便开始了漫长的寻找南非代购的路程。不管怎么说，买到了.jpg
 
@@ -55,7 +53,7 @@ has_toc: false
 ![保护壳膜](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/06_cover_plastic.jpg)
 
 ### 正面
-很显然，升级后的fx-991ZA PLUS II使用了逗号(comma)作为小数分隔符，而在原型号fx-991ZA PLUS使用的是点号(decimal point)，具体原因后文会详细说明。
+很显然，升级后的fx-991ZA PLUS II使用了逗号(comma)作为小数分隔符，而在原型号fx-991ZA PLUS使用的是点号(decimal point)，后文还会提及并说明原因。
 
 保护壳上的贴纸沿用了fx-ES PLUS的设计，并根据计算器的颜色将背景改为了白色。
 
@@ -63,7 +61,7 @@ has_toc: false
 ![正面](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/07_front.jpg "正面")
 
 ### 背面
-可以看到带太阳能的ES PLUS 2nd edition系列型号计算器并没有对电池仓设计开孔和盖子。
+可以看到带太阳能的fx-ES PLUS Series -2nd edition-系列型号计算器并没有对电池仓设计开孔和盖子。
 ![背面](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/08_back.jpg "背面")
 
 ### 入门说明(Startup Guide)
@@ -84,7 +82,7 @@ has_toc: false
 ## 拆机
 后期至今的泰国产的机型在太阳能面板背部和显示屏背部都用一张透明胶粘贴在了一起，猜测是为了防止松脱。
 
-从这里也可以看出带太阳能的ES PLUS 2nd edition系列型号计算器并没有对电池仓设计开槽，而在入门说明和说明书中都是写明换电池需要拧下全部6颗螺丝打开后盖。（螺丝真的非常非常紧）
+从这里也可以看出带太阳能的fx-ES PLUS Series -2nd edition-系列型号计算器并没有对电池仓设计开槽，而在入门说明和说明书中都是写明换电池需要拧下全部6颗螺丝打开后盖。（螺丝真的非常非常紧）
 ![拆机](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/12_inside_1.jpg "拆机")
 
 从电路板的印刷文字可以得知我这台fx-115ES PLUS 2nd edition的生产时间为2022年第9周，而fx-991ZA PLUS II的生产时间为22年的第24周。
@@ -92,12 +90,12 @@ has_toc: false
 ![拆机内部2](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/14_inside_3.jpg "拆机内部2")
 
 ## 自检
-ES PLUS 2nd edition系列与ClassWiz CW系列一样，具有假自检画面，这里就不贴图了，在@喜羊羊第x代对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可自行前往查看。
+fx-ES PLUS Series -2nd edition-系列与ClassWiz CW系列一样，具有假自检画面，这里就不贴图了，在@喜羊羊第x代对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可自行前往查看。
 
 按下[SHIFT][7]+[ON]后接着按[9]后一路[SHIFT]即可看到自检的序列号界面。
 ![自检](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/15_test.jpg "自检")
 
-ES PLUS 2nd Edition开始引入第三自检，`[SHIFT]` `[7]` +`[ON]`后接着按`[6]`即可进入。
+fx-ES PLUS Series -2nd edition-也引入了第三自检，`[SHIFT]` `[7]` +`[ON]`后接着按`[6]`即可进入。
 ![第三自检](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/16_3rdtest.jpg "第三自检")
 
 ## 开始（Get Started）
@@ -121,7 +119,7 @@ ES PLUS 2nd Edition开始引入第三自检，`[SHIFT]` `[7]` +`[ON]`后接着�
 ## 系统设置
 ![系统设置](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/21_setup.jpg "系统设置")
 ### 显示格式-常规(Norm)
-fx-991ZA PLUS II和fx-82ZA PLUS II的显示格式初始默认（缺省）值均为Norm2，而包括fx-115ES PLUS 2nd edition在内的其他ES PLUS 2nd edition系列型号和旧型号fx-ZA PLUS基本均为Norm1。
+fx-991ZA PLUS II和fx-82ZA PLUS II的显示格式初始默认（缺省）值均为Norm2，而包括fx-115ES PLUS 2nd edition在内的其他fx-ES PLUS Series -2nd edition-系列型号和旧型号fx-ZA PLUS基本均为Norm1。
 ![常规(Norm)](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/22_norm.jpg "常规(Norm)")
 
 ### 循环小数设置(Rdec: Recurring Decimal Format)
@@ -149,7 +147,7 @@ Ref/Rref函数两款机型均拥有。
 ### 其他模式没啥好讲的（摆烂
 
 ## 常数(CONST)
-大部分的fx-ES PLUS和ClassWiz X系列机型的常数值均基于CODATA(2010)推荐值，而fx-991ZA PLUS II和fx-115ES PLUS 2nd edition作为fx-ES PLUS 2nd edition系列的机型，其常数值均更新至基于CODATA(2014)推荐值。
+大部分的fx-ES PLUS系列和ClassWiz X系列机型的常数值均基于CODATA(2010)推荐值，而fx-991ZA PLUS II和fx-115ES PLUS 2nd edition作为fx-ES PLUS Series -2nd edition-系列的机型，其常数值均更新至基于CODATA(2014)推荐值。
 ![常数(CONST)](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/29_const.jpg "常数(CONST)")
 ![常数(CONST)_fx-115ES PLUS](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/30_const_115ES.jpg "常数(CONST)_fx-115ES PLUS")
 （fx-115ES PLUS的图片由[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)提供）
@@ -182,4 +180,4 @@ fx-991ZA PLUS II和fx-82ZA PLUS II相较于fx-991ZA PLUS和fx-82ZA PLUS将小数
 楼主的观点是卡西欧及各大开发人员之前的本体化不完善，在大量消费者的反馈下开发者意识到了错误并将其修正。
 
 ## 异常相关
-由于fx-ES PLUS 2nd edition已将大部分异常修复，并且fx-991ZA PLUS II并没有稳定且价格合适的购入渠道（我也不推荐购买），所以不进行相关研究了~~（咕咕咕咕咕）~~。
+由于fx-ES PLUS Series -2nd edition-已将大部分异常修复，并且fx-991ZA PLUS II并没有稳定且价格合适的购入渠道（我也不推荐购买），所以不进行相关研究了~~（咕咕咕咕咕）~~。

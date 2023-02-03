@@ -48,6 +48,9 @@ fx-991CW作为fx-991EX的升级型号，其定位跟fx-991EX基本一致：面�
 印度尼西亚作为非英语为官方语言的国家，从印尼境内购买的卡西欧计算器其包装背面贴上了印尼语的对于授权进口经销商和产品的相关说明。（KARTU GARANSI=保修卡；GARANSI TAHUN=保修一年）
 ![包装背面](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/04_pack_back.jpg "包装背面")
 
+下图所示为fx-991ID PLUS的包装盒，可以看到其外包装背面也贴上了印尼语的对于授权进口经销商和产品的相关说明。
+![fx-991ID PLUS包装盒](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/04_pack_back_idplus.jpg "fx-991ID PLUS包装盒")
+
 可以看到fx-991CW的包装跟fx-880BTG一样非常薄（就计算器+两张纸的厚度）。
 ![包装侧面](https://zwolken.github.io/Calc_Review/assets/images/01_991CW/05_pack_side.jpg "包装侧面")
 
