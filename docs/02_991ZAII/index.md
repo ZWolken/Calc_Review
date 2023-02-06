@@ -27,7 +27,7 @@ has_toc: false
 
 ~~别问花费了多少，问就是心痛.jpg~~
 
-而原型号fx-991ZA PLUS实在是没啥吸引力就不浪费钱买了（
+而fx-ES PLUS的原型号fx-991ZA PLUS实在是没啥吸引力就不浪费钱买了（
 
 本文还会出现fx-115ES PLUS等型号的计算器作为对比。
 
@@ -36,7 +36,7 @@ has_toc: false
 
 根据维基百科的说明，在1925年前南非的官方语言一直是荷兰语(Dutch)，南非(South Africa)在荷兰语中是Zuid-Afrika，这也便是ZA的由来， 在ISO 3166中，也是规定了ZA为南非的Alpha-2 code。
 
-介于贴吧内已有@喜羊羊第x代对fx-115ES PLUS 2nd edition的[相关简略评测](https://tieba.baidu.com/p/7591156428)，本文将不会再对两机型中fx-115ES PLUS 2nd edition已存在的功能做过多评测。
+鉴于贴吧内已有@喜羊羊第x代对fx-115ES PLUS 2nd edition的[相关简略评测](https://tieba.baidu.com/p/7591156428)，本文将不会再对两机型中fx-115ES PLUS 2nd edition已存在的功能做过多评测。
 
 下方图片为fx-ES PLUS 2nd edition的全部型号（应该是全部）（部分信息来源：[fx-ES PLUS Emulator Subscription](https://edu.casio.com/products/classroom/es_plus/)）
 ![fx-ES_PLUS_2nd_edition_list](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/02_list.png "fx-ES PLUS 2nd edition的全部型号列表")
@@ -67,7 +67,7 @@ has_toc: false
 ### 入门说明(Startup Guide)
 从2019年开始的卡西欧大部分计算器生产线都仅附带了简要的入门说明来取代了原有的说明书~~（什么，环保.jpg）~~，这两款机型也是如此。
 
-可以看到fx-115ES PLUS 2nd edition附带了英语、西班牙语(Spanish)的入门说明以及一张保修告知。
+可以看到fx-115ES PLUS 2nd edition附带了英语、西班牙语(Spanish)的入门说明以及一张保修告知单。
 
 而fx-991ZA PLUS II则附带了英语、祖鲁语(Zulu)、南非语/南非荷兰语(Afrikaans)三语种的入门说明，与fx-991ZA PLUS II的外包装正面右下角所写的一致："*Afrikaans, English & Zulu User's Guides are included*"
 ![入门说明](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/09_startup.jpg "入门说明")
@@ -85,14 +85,14 @@ has_toc: false
 从这里也可以看出带太阳能的fx-ES PLUS Series -2nd edition-系列型号计算器并没有对电池仓设计开槽，而在入门说明和说明书中都是写明换电池需要拧下全部6颗螺丝打开后盖。（螺丝真的非常非常紧）
 ![拆机](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/12_inside_1.jpg "拆机")
 
-从电路板的印刷文字可以得知我这台fx-115ES PLUS 2nd edition的生产时间为2022年第9周，而fx-991ZA PLUS II的生产时间为22年的第24周。
+从电路板的印刷文字可以得知我这台fx-115ES PLUS 2nd edition的生产时间为2022年第9周（2月下旬），而fx-991ZA PLUS II的生产时间为22年的第24周（6月上旬）。
 ![拆机内部1](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/13_insde_2.jpg "拆机内部1")
 ![拆机内部2](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/14_inside_3.jpg "拆机内部2")
 
 ## 自检
 fx-ES PLUS Series -2nd edition-系列与ClassWiz CW系列一样，具有假自检画面，这里就不贴图了，在@喜羊羊第x代对fx-880BTG的[相关评测](https://tieba.baidu.com/p/8088620034)中已有详细介绍，可自行前往查看。
 
-按下[SHIFT][7]+[ON]后接着按[9]后一路[SHIFT]即可看到自检的序列号界面。
+按下`[SHIFT]` `[7]`+`[ON]`后接着按`[9]`后一路`[SHIFT]`即可看到自检的序列号界面。
 ![自检](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/15_test.jpg "自检")
 
 fx-ES PLUS Series -2nd edition-也引入了第三自检，`[SHIFT]` `[7]` +`[ON]`后接着按`[6]`即可进入。
@@ -103,7 +103,7 @@ fx-ES PLUS Series -2nd edition-也引入了第三自检，`[SHIFT]` `[7]` +`[ON]
 
 扫描二维码进入网站并输入计算器的ID编号即可验证真伪以及查看在线用户说明书。
 
-显示的二维码并不会刷新变动。
+显示的二维码是写入固件的二进制图案，并非实时生成，不能改变。
 ![开始（Get Started）](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/17_id.jpg "开始（Get Started）")
 
 ## 精度测试
@@ -177,7 +177,7 @@ fx-991ZA PLUS II和fx-82ZA PLUS II相较于fx-991ZA PLUS和fx-82ZA PLUS将小数
 
 那么为什么2014年左右上市的fx-991ZA PLUS和2010年.NET 4.0推出之前所使用的.NET 3.5都是使用点号(decimal point)作为小数分隔符？
 
-楼主的观点是卡西欧及各大开发人员之前的本体化不完善，在大量消费者的反馈下开发者意识到了错误并将其修正。
+本人的观点是卡西欧及各大开发人员之前的本体化不完善，在大量消费者的反馈下开发者意识到了错误并将其修正。
 
 ## 异常相关
 由于fx-ES PLUS Series -2nd edition-已将大部分异常修复，并且fx-991ZA PLUS II并没有稳定且价格合适的购入渠道（我也不推荐购买），所以不进行相关研究了~~（咕咕咕咕咕）~~。
