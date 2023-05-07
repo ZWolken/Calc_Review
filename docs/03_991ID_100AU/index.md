@@ -190,20 +190,20 @@ SALAH→FALSE
 
 Titik→Dot（点积/点乘）
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/26_vector.jpg "")
+![VECTOR](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/26_vector.jpg "VECTOR")
 
 ### PRSMN(EQN)（方程式计算）（fx-991ID PLUSのみ）
 
 Nilai→Value
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/27_eqn_1.jpg "")
+![PRSMN(EQN)1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/27_eqn_1.jpg "PRSMN(EQN)1")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/28_eqn_2.jpg "")
+![PRSMN(EQN)2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/28_eqn_2.jpg "PRSMN(EQN)2")
 
 ### MATRIX（矩阵计算）（fx-991ID PLUSのみ）
 fx-991ID PLUS不具备Ref（行阶梯形式）和Rref（简化行阶梯形式）矩阵函数计算功能。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/29_matrix.jpg "")
+![MATRIX](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/29_matrix.jpg "MATRIX")
 
 ### TABEL(TABLE)（数表计算）（fx-991ID PLUSのみ）
 
@@ -211,15 +211,15 @@ fx-991ID PLUS不具备g(x)定义生成功能。
 
 Mulai→Start
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/30_table_1.jpg "")
+![TABEL(TABLE)1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/30_table_1.jpg "TABEL(TABLE)1")
 
 Akhiri→End
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/31_table_2.jpg "")
+![TABEL(TABLE)2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/31_table_2.jpg "TABEL(TABLE)2")
 
 Langkah→Step
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/32_table_3.jpg "")
+![TABEL(TABLE)3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/32_table_3.jpg "TABEL(TABLE)3")
 
 ### 其他
 
@@ -231,7 +231,7 @@ PTSMN`[P(er)t(idak)s(a)m(aa)n]`(INEQ)（不等式计算）以及DIST（分布计
 
 其函数功能的区别通过这张截图已经基本可以全部体现，总之就是很奇葩。~~（摊手）~~
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/33_82au_simulator.png "")
+![fx-82AU PLUS&fx-82AU PLUS II模拟器](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/33_82au_simulator.png "fx-82AU PLUS&fx-82AU PLUS II模拟器")
 
 ## SETUP/SETEL 设置菜单
 
@@ -241,7 +241,7 @@ DRJ`[d(e)r(a)j(at)]`→Deg`[degrees]`
 
 Grad`[grad(ien)]`→Gra`[grads]`
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/34_setup_1.jpg "")
+![SETUP/SETEL1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/34_setup_1.jpg "SETUP/SETEL1")
 
 Desul`[Des(imal) (ber)ul(ang)]`→Rdec`[R(ecurring) dec(imal)]` 循环节显示设置
 
@@ -249,25 +249,25 @@ DMO`[Daya Mematikan Otomatis]`→APO`[Auto Power Off]` 自动关机时间设置
 
 KONT`[KONT(RAS)]`→CONT`[CONTRAST]` 对比度设置
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/35_setup_2.jpg "")
+![SETUP/SETEL2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/35_setup_2.jpg "SETUP/SETEL2")
 
 ### CMPLX复数设置
 
 Hashil Complex→Complex Result
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/36_setup_3.jpg "")
+![CMPLX](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/36_setup_3.jpg "CMPLX")
 
 ### STAT统计计算设置
 
 Frekuensi→Frequency
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/37_setup_4.jpg "")
+![STAT](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/37_setup_4.jpg "STAT")
 
 ### 循环节显示设置（fx-991ID PLUSのみ）
 
 Desul`[Des(imal) (ber)ul(ang)]`→Rdec`[R(ecurring) dec(imal)]` 
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/38_setup_5.jpg "")
+![Rdec](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/38_setup_5.jpg "Rdec")
 
 ###  自动关机时间设置（fx-991ID PLUSのみ）
 
@@ -275,7 +275,7 @@ DMO`[Daya Mematikan Otomatis]`→APO`[Auto Power Off]`
 
 在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS共3个地区的型号，fx-991ZA PLUS II的图片可前往我之前对fx-991ZA PLUS II的[评测贴](https://tieba.baidu.com/p/8249078929)17楼查看。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/39_setup_6.jpg "")
+![APO](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/39_setup_6.jpg "APO")
 
 ### CONTRAST对比度设置
 
@@ -285,29 +285,29 @@ CERAH→LIGHT
 
 GELAP→DARK
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/40_setup_7.jpg "")
+![CONTRAST](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/40_setup_7.jpg "CONTRAST")
 
 ## 错误/提示
 
 ### 数学错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/41_error_01.jpg "")
+![数学错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/41_error_01.jpg "数学错误")
 
 ### 语法错误（句法错误）
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/42_error_02.jpg "")
+![语法错误（句法错误）](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/42_error_02.jpg "语法错误（句法错误）")
 
 ### 自变量错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/43_error_03.jpg "")
+![自变量错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/43_error_03.jpg "自变量错误")
 
 ### 堆栈错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/44_error_04.jpg "")
+![堆栈错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/44_error_04.jpg "堆栈错误")
 
 ### 存储器不足错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/45_error_05.jpg "")
+![存储器不足错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/45_error_05.jpg "存储器不足错误")
 
 ### AC中断
 
