@@ -9,7 +9,7 @@ has_toc: false
 # **[fx-ES PLUS]fx-991ID PLUS & fx-100AU PLUS评测**
 >若网页中图片无法正常显示，请检查当前网络环境能否正常访问GitHub。
 
-![fx-991ID PLUS & fx-100AU PLUS](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/01_start.jpg "fx-991ID PLUS & fx-100AU PLUS")
+![fx-991ID PLUS & fx-100AU PLUS精度](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/01_start.jpg "fx-991ID PLUS & fx-100AU PLUS精度")
 精度镇楼
 
 ## 阅读须知
@@ -46,11 +46,11 @@ fx-991ID PLUS说明书为印度尼西亚语，右上角语言标识为N。
 
 fx-100AU PLUS没买到说明书~~（跳过）~~。
 
-![包装1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/02_package_1.jpg "包装1")
+![包装正面](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/02_package_1.jpg "包装正面")
 
-![包装2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/03_package_2.jpg "包装2")
+![包装背面](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/03_package_2.jpg "包装背面")
 
-![包装2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/04_package_3.jpg "包装2")
+![包装侧面](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/04_package_3.jpg "包装侧面")
 
 ![fx-100AU PLUS包装](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/05_package_4.jpg "fx-100AU PLUS包装")
 >fx-100AU PLUS包装[图片源](https://www.ezyshoponline.com.au/casio-calculator-fx100au-plus-scientific)
@@ -311,53 +311,53 @@ GELAP→DARK
 
 ### AC中断
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/46_error_06.jpg "")
+![AC中断](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/46_error_06.jpg "AC中断")
 
 ### 维数错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/47_error_07.jpg "")
+![维数错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/47_error_07.jpg "维数错误")
 
 ### 变量错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/48_error_08.jpg "")
+![变量错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/48_error_08.jpg "变量错误")
 
 ### 无法求解错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/49_error_09.jpg "")
+![无法求解错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/49_error_09.jpg "无法求解错误")
 
 ### 超时错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/50_error_10.jpg "")
+![超时错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/50_error_10.jpg "超时错误")
 
 ### 不可约分错误
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/51_error_11.jpg "")
+![不可约分错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/51_error_11.jpg "不可约分错误")
 
 ### 继续(Continue)
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/52_continue.jpg "")
+![继续(Continue)](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/52_continue.jpg "继续(Continue)")
 
 ## 自检
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/53_selftest_1.jpg "")
+![自检1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/53_selftest_1.jpg "自检1")
 
 可以看到CONTRAST、LIGHT、DARK也都本土化了显示为KONTRAS、CERAH以及GELAP。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/54_selftest_2.jpg "")
+![自检2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/54_selftest_2.jpg "自检2")
 
 ## 拆机
 
 图中左侧为fx-100AU PLUS，右侧为fx-991ID PLUS，太阳能板为fx-991ID PLUS。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/55_inside_1.jpg "")
+![拆机1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/55_inside_1.jpg "拆机1")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/56_inside_2.jpg "")
+![拆机2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/56_inside_2.jpg "拆机2")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/57_inside_3.jpg "")
+![拆机3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/57_inside_3.jpg "拆机3")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/58_inside_4.jpg "")
+![拆机4](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/58_inside_4.jpg "拆机4")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/59_inside_5.jpg "")
+![太阳能板](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/59_inside_5.jpg "太阳能板")
 
 ## Fin.
 
@@ -365,4 +365,4 @@ GELAP→DARK
 
 放张截止到此评测码完字时，贴吧里仍未有过评测的型号的照片当结束图（
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/60_end.jpg "")
+![Fin.](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/60_end.jpg "Fin.")
