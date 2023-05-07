@@ -272,7 +272,7 @@ Desul`[Des(imal) (ber)ul(ang)]`→Rdec`[R(ecurring) dec(imal)]`
 
 DMO`[Daya Mematikan Otomatis]`→APO`[Auto Power Off]`
 
-在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS共3个地区的型号，fx-991ZA PLUS II的图片可前往我之前对fx-991ZA PLUS II的评测贴查看，评测贴链接我会放在本楼评论区。
+在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS共3个地区的型号，fx-991ZA PLUS II的图片可前往我之前对fx-991ZA PLUS II的[评测贴](https://tieba.baidu.com/p/8249078929)17楼查看。
 
 ![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/39_setup_6.jpg "")
 
@@ -290,3 +290,78 @@ GELAP→DARK
 
 ### 数学错误
 
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/41_error_01.jpg "")
+
+### 语法错误（句法错误）
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/42_error_02.jpg "")
+
+### 自变量错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/43_error_03.jpg "")
+
+### 堆栈错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/44_error_04.jpg "")
+
+### 存储器不足错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/45_error_05.jpg "")
+
+### AC中断
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/46_error_06.jpg "")
+
+### 维数错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/47_error_07.jpg "")
+
+### 变量错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/48_error_08.jpg "")
+
+### 无法求解错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/49_error_09.jpg "")
+
+### 超时错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/50_error_10.jpg "")
+
+### 不可约分错误
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/51_error_11.jpg "")
+
+### 继续(Continue)
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/52_continue.jpg "")
+
+## 自检
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/53_selftest_1.jpg "")
+
+可以看到CONTRAST、LIGHT、DARK也都本土化了显示为KONTRAS、CERAH以及GELAP。
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/54_selftest_2.jpg "")
+
+## 拆机
+
+图中左侧为fx-100AU PLUS，右侧为fx-991ID PLUS，太阳能板为fx-991ID PLUS。
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/55_inside_1.jpg "")
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/56_inside_2.jpg "")
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/57_inside_3.jpg "")
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/58_inside_4.jpg "")
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/59_inside_5.jpg "")
+
+## Fin.
+
+评测到此结束。
+
+放张截止到此评测码完字时，贴吧里仍未有过评测的型号的照片当结束图（
+
+![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/60_end.jpg "")
