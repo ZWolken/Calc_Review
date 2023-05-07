@@ -46,19 +46,20 @@ fx-991ID PLUS说明书为印度尼西亚语，右上角语言标识为N。
 
 fx-100AU PLUS没买到说明书~~（跳过）~~。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/02_package_1.jpg "")
+![包装1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/02_package_1.jpg "包装1")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/03_package_2.jpg "")
+![包装2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/03_package_2.jpg "包装2")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/04_package_3.jpg "")
+![包装2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/04_package_3.jpg "包装2")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/05_package_4.jpg "")
+![fx-100AU PLUS包装](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/05_package_4.jpg "fx-100AU PLUS包装")
 >fx-100AU PLUS包装[图片源](https://www.ezyshoponline.com.au/casio-calculator-fx100au-plus-scientific)
 
 ### 正面
 
 可以看到fx-991ID PLUS按键文字印刷的语言本地化较为完整，而fx-100AU PLUS的印刷因各种功能的阉割显得较为诡异。
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/06_front_1.jpg "")
+
+![正面1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/06_front_1.jpg "正面1")
 
 这里先对fx-991ID PLUS的印刷进行解释，此处使用fx-115ES PLUS进行对照：
 
@@ -76,7 +77,7 @@ CEK`[(menge)cek]`→VERIFY（其实就是英语的check）
 
 fx-991ID PLUS拥有大π（累乘）、循环节函数功能，但显然不具备质因数分解(FACT)、÷R、GCD、LCM、Int、Intg和PreAns功能。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/07_front_2.jpg "")
+![正面2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/07_front_2.jpg "正面2")
 
 再来看看fx-100AU PLUS，总而言之就是说不出的怪异，配合澳大利亚的考纲而阉割的功能在按键印刷上已经可以初探详情，此处使用fx-991ES PLUS C进行对照。
 
@@ -88,11 +89,11 @@ fx-100AU PLUS具备CONV（基本单位转换）功能，却不具备CONST（科�
 
 可以看到我在旁边放了台fx-87DE PLUS，老实讲可能将fx-100AU PLUS与fx-87DE PLUS进行对照比较更为合适~~（笑）~~。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/08_front_3.jpg "")
+![正面3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/08_front_3.jpg "正面3")
 
 但是其银色的外壳摆在这里，卡西欧对其的定位应该是旗舰机（吧），顺带一提，卡西欧官方的模拟器中fx-100AU PLUS的壳是黑色，这也是我已知的唯一一台实体机跟模拟器配色不同的型号，而其升级机型fx-100AU PLUS 2nd edition的实体机和模拟器配色均为黑色。因此我对该型号是否为旗舰机态度存疑。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/09_100au_simulator.png "")
+![fx-100AU PLUS模拟器](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/09_100au_simulator.png "fx-100AU PLUS模拟器")
 
 ### 背面&保护壳贴纸
 
@@ -102,7 +103,7 @@ fx-100AU PLUS具备CONV（基本单位转换）功能，却不具备CONST（科�
 
 fx-991ID PLUS的保护壳上贴纸已经完全本地化为印度尼西亚语，而这台fx-100AU PLUS的保护壳上贴纸，呃……内容上跟fx-82AU PLUS II共用。嗯？单位转换的内容去哪里了？~~我不到啊.jpg~~
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/10_back.jpg "")
+![背面&保护壳贴纸](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/10_back.jpg "背面&保护壳贴纸")
 
 ## 模式功能
 
@@ -118,58 +119,58 @@ PRSMN`[P(e)rs(a)m(aa)n]`→EQN
 
 TABLE`[Tabel]`→TABEL
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/11_mode_991id_1.jpg "")
+![MODE菜单1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/11_mode_991id_1.jpg "MODE菜单1")
 
 PTSMN`[P(er)t(idak)s(a)m(aa)n]`→INEQ
 
 CEK`[(Menge)cek]`→VERIFY
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/12_mode_991id_2.jpg "")
+![MODE菜单2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/12_mode_991id_2.jpg "MODE菜单2")
 
 而fx-100AU PLUS仅拥有基本算术运算、复数计算、统计和回归计算、进制运算、验证计算、向量计算共6种模式，没有通常情况下的三基础模式中的TABLE（数表计算）模式，总的来说MODE功能上跟fx-87DE PLUS不相上下，略强于fx-92 Collège 2D+。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/13_mode_100au.jpg "")
+![MODE菜单3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/13_mode_100au.jpg "MODE菜单3")
 
 ### COMP（基本算术运算）
 
 AU型号跟SG型号最著名的就是不具备自然书写功能（考纲限制，要求考生自行化简）。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/14_comp_1.jpg "")
+![COMP1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/14_comp_1.jpg "COMP1")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/15_comp_2.jpg "")
+![COMP2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/15_comp_2.jpg "COMP2")
 
 相关的两型号具备的功能函数前文在按键文字印刷处已经说明。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/16_comp_3.jpg "")
+![COMP3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/16_comp_3.jpg "COMP3")
 
 fx-100AU PLUS具备质因数分解功能(FACT)，而fx-991ID PLUS不具备。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/17_comp_4_fact.jpg "")
+![COMP4](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/17_comp_4_fact.jpg "COMP4")
 
 ### CMPLX(COMPLEX)（复数计算）
 
 fx-100AU PLUS自然不具备自然书写功能。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/18_complex.jpg "")
+![CMPLX](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/18_complex.jpg "CMPLX")
 
 ### STAT（统计计算）
 
 fx-991ID PLUS对单变量计算的显示改成了“Var-1”。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/19_stat_1.jpg "")
+![STAT1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/19_stat_1.jpg "STAT1")
 
 Tipe→Type
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/20_stat_2.jpg "")
+![STAT2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/20_stat_2.jpg "STAT2")
 
 Sisip`[sisip(an)]`→Ins
 Hps-S`[(meng)H(a)p(u)s S(emua)]`→Del-A
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/21_stat_3.jpg "")
+![STAT3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/21_stat_3.jpg "STAT3")
 
 Jml`[J(u)ml(ah)]`→Sum
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/22_stat_4.jpg "")
+![STAT4](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/22_stat_4.jpg "STAT4")
 
 ### CEK(VERIFY)（验证计算）
 
@@ -177,13 +178,13 @@ BENAR→TRUE
 
 SALAH→FALSE
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/23_verify_1.jpg "")
+![CEK(VERIFY)1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/23_verify_1.jpg "CEK(VERIFY)1")
 
 若未输入右侧条件直接按下=号，均会自动补全输入“=0”进行计算。
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/24_verify_2.jpg "")
+![CEK(VERIFY)2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/24_verify_2.jpg "CEK(VERIFY)2")
 
-![](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/25_verify_3.jpg "")
+![CEK(VERIFY)3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/25_verify_3.jpg "CEK(VERIFY)3")
 
 ### VECTOR（向量计算）
 
