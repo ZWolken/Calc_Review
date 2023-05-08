@@ -284,7 +284,7 @@ Frekuensi→Frequency
 
 ### 循环节显示设置（fx-991ID PLUSのみ）
 
-Desul`[Des(imal) (ber)ul(ang)]`→Rdec`[R(ecurring) dec(imal)]` 
+Des(imal) berulang→Recur(ring) Decimal
 
 ![Rdec](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/41_setup_5.jpg "Rdec")
 
@@ -410,6 +410,6 @@ Tekan tmbl[t(o)mb(o)l]→Press the button/Press key
 
 评测到此结束。
 
-放张截止到此评测码完字时，贴吧里仍未有过评测的型号的照片当结束图（
+放张截止到此评测刚开始码字时，贴吧里仍未有过评测的型号的照片当结束图（
 
 ![Fin.](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/68_end.jpg "Fin.")
