@@ -23,7 +23,7 @@ has_toc: false
 
 感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对本文的补充以及存在错误的指正！
 
-之前在fx-991CW的评测贴中提到过，我那台粉色的fx-991CW是从印尼购买的，其实一开始想买的是fx-991ID PLUS，但2022年底的印尼市场上全新的只有fx-991ID PLUS 2nd edition在销售，fx-991ID PLUS完全没货。由于fx-991ID PLUS 2nd edition的配色为黑色，实在是不喜欢，所以开始寻找二手的fx-991ID PLUS，最后是在Carousell.id上成功购入，再次也十分感谢我的代购~~（虽然她应该看不到这个贴）~~。
+之前在[fx-991CW的评测贴](https://tieba.baidu.com/p/8243470162)中提到过，我那台粉色的fx-991CW是从印尼购买的，其实一开始想买的是fx-991ID PLUS，但2022年底的印尼市场上全新的只有fx-991ID PLUS 2nd edition在销售，fx-991ID PLUS完全没货。由于fx-991ID PLUS 2nd edition的配色为黑色，实在是不喜欢，所以开始寻找二手的fx-991ID PLUS，最后是在Carousell.id上成功购入，再次也十分感谢我的代购~~（虽然她应该看不到这个贴）~~。
 
 我想购买fx-991ID PLUS的原因自然是它十分完善的本地化，不单单是内部系统显示和提示为印度尼西亚语，整个按键面板都基本为印度尼西亚语（后续会进行介绍）。
 
