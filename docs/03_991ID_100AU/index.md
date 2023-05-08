@@ -328,6 +328,10 @@ Batal→Cancel
 
 ![CLR 初始化4](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/47_clr_4.jpg "CLR 初始化4")
 
+Selesai→Finished/Complete
+
+Tekan tmbl[t(o)mb(o)l]→Press the button/Press key
+
 ![CLR 初始化5](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/48_clr_5.jpg "CLR 初始化5")
 
 ## 错误/提示
