@@ -33,9 +33,9 @@ has_toc: false
 
 ## 简要介绍
 
-fx-991ID PLUS是卡西欧fx-ES PLUS系列在印尼销售的本地化（本土化）机型。该型号应该是fx-ES PLUS系列中本地化（本土化）最完整的机型，甚至连后续的ClassWiz X系列（第一代）都没有如此本地化（本土化）最完整的机型。其完整程度从键盘功能名的印刷就能看出，而且fx-991ID PLUS拥有11个模式，并且拥有大π（累乘）和循环节功能。
+fx-991ID PLUS是卡西欧fx-ES PLUS系列在印尼销售的本地化机型，且应该是fx-ES PLUS系列中本地化最完整的机型，甚至连后续的ClassWiz X系列（第一代）都没有如此本地化最完整的机型。其完整程度从键盘功能名的印刷就能看出；fx-991ID PLUS拥有11个模式，且拥有大π（累乘）和循环节功能。
 
-fx-100AU PLUS是卡西欧fx-ES PLUS系列在澳大利亚销售的本地化（本土化）机型。为了适应澳大利亚的考纲，跟fx-96SG PLUS一样，自然书写等一堆功能函数被削了，以至于我对于其旗舰机的定位表示怀疑，其奇葩程度后文会详细进行介绍。
+fx-100AU PLUS是卡西欧fx-ES PLUS系列在澳大利亚销售的本地化机型。为了适应澳大利亚的考纲，跟fx-96SG PLUS一样，自然书写等一堆功能函数被削了，以至于我对于其旗舰机的定位表示怀疑，其奇葩程度后文会详细进行介绍。
 
 ## 外观
 ### 包装
@@ -75,17 +75,17 @@ BASIS`[Basis-n]`→BASE
 
 CEK`[(menge)cek]`→VERIFY（其实就是英语的check）
 
-fx-991ID PLUS拥有大π（累乘）、循环节函数功能，但显然不具备质因数分解(FACT)、÷R、GCD、LCM、Int、Intg和PreAns功能。
+fx-991ID PLUS拥有大π（累乘）、循环节函数功能，但不具备质因数分解(FACT)、÷R、GCD、LCM、Int、Intg和PreAns功能。
 
 ![正面2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/07_front_2.jpg "正面2")
 
 再来看看fx-100AU PLUS，总而言之就是说不出的怪异，配合澳大利亚的考纲而阉割的功能在按键印刷上已经可以初探详情，此处使用fx-991ES PLUS C进行对照。
 
-fx-100AU PLUS只有log函数功能（以10为底的对数，国内通常称为lg函数），logab函数功能（以任意数为底的对数）不具备；Σ（累加），大π（累乘）功能均不具备；CALC、SOLVE功能均不具备；∫（微分）、d/dx（积分）功能均不具备；÷R、循环节函数功能均不具备；Int、Intg功能均不具备；
+fx-100AU PLUS仅有log函数功能（以10为底的对数，国内通常称为lg函数），不具备logab函数功能（以任意数为底的对数）；不具备Σ（累加），大π（累乘）函数功能；不具备CALC、SOLVE功能；不具备∫（微分）、d/dx（积分）函数功能；不具备÷R、循环节函数功能；不具备Int、Intg功能；
 
 但是，具备质因数分解(FACT)和PreAns功能。~~（神奇）~~
 
-fx-100AU PLUS具备CONV（基本单位转换）功能，却不具备CONST（科学常数）功能。
+fx-100AU PLUS具备CONV（基本单位转换）功能，但不具备CONST（科学常数）功能。
 
 可以看到我在旁边放了台fx-87DE PLUS，老实讲可能将fx-100AU PLUS与fx-87DE PLUS进行对照比较更为合适~~（笑）~~。
 
@@ -149,7 +149,7 @@ fx-100AU PLUS具备质因数分解功能(FACT)，而fx-991ID PLUS不具备。
 
 ### CMPLX(COMPLEX)（复数计算）
 
-fx-100AU PLUS自然不具备自然书写功能。
+fx-100AU PLUS的复数计算模式内自然也不具备自然书写功能。
 
 ![CMPLX](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/18_complex.jpg "CMPLX")
 
@@ -164,6 +164,7 @@ Tipe→Type
 ![STAT2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/20_stat_2.jpg "STAT2")
 
 Sisip`[sisip(an)]`→Ins
+
 Hps-S`[(meng)H(a)p(u)s S(emua)]`→Del-A
 
 ![STAT3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/21_stat_3.jpg "STAT3")
@@ -225,7 +226,7 @@ Langkah→Step
 
 PTSMN`[P(er)t(idak)s(a)m(aa)n]`(INEQ)（不等式计算）以及DIST（分布计算）无本地化内容，故不展开说明。
 
-这里顺便放一张fx-82AU PLUS和fx-82AU PLUS II的模拟器截图。（感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)提供的模拟器文件）
+这里顺便放一张fx-82AU PLUS和fx-82AU PLUS II的模拟器截图。
 
 可以看出fx-100AU不含TABLE（数表计算）是能追溯到fx-82AU PLUS的。
 
@@ -235,7 +236,7 @@ PTSMN`[P(er)t(idak)s(a)m(aa)n]`(INEQ)（不等式计算）以及DIST（分布计
 
 ## SETUP/SETEL 设置菜单
 
-BrsIO[Display Baris]→LineIO
+BrsIO`[Display Baris]`→LineIO
 
 DRJ`[d(e)r(a)j(at)]`→Deg`[degrees]`
 
@@ -341,7 +342,7 @@ GELAP→DARK
 
 ![自检1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/53_selftest_1.jpg "自检1")
 
-可以看到CONTRAST、LIGHT、DARK也都本土化了显示为KONTRAS、CERAH以及GELAP。
+可以看到自检内的CONTRAST、LIGHT、DARK也均本土化了为印度尼西亚语。
 
 ![自检2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/54_selftest_2.jpg "自检2")
 
