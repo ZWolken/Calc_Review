@@ -126,7 +126,7 @@ fx-991ZA PLUS II和fx-82ZA PLUS II的显示格式初始默认（缺省）值均�
 fx-115ES PLUS 2nd edition跟fx-115ES PLUS一样有循环小数的功能，设置菜单内自然存在。
 
 ### 自动关机时间(APO: Auto Power Off)
-fx-991ZA PLUS II和fx-991ZA PLUS一样具有自动关机时间的设置菜单，在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS、fx-92 College 2D+共4个地区的型号。fx-115ES PLUS 2nd edition和fx-115ES PLUS一样并不具备自动关机时间的设置菜单。
+fx-991ZA PLUS II和fx-991ZA PLUS一样具有自动关机时间的设置菜单，在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS共3个地区的型号。fx-115ES PLUS 2nd edition和fx-115ES PLUS一样并不具备自动关机时间的设置菜单。
 ![循环小数&自动关机时间](https://zwolken.github.io/Calc_Review/assets/images/02_991ZAII/23_rdec_apo.jpg "循环小数&自动关机时间")
 
 ## 模式
