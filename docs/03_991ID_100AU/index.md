@@ -234,6 +234,24 @@ PTSMN`[P(er)t(idak)s(a)m(aa)n]`(INEQ)（不等式计算）以及DIST（分布计
 
 ![fx-82AU PLUS&fx-82AU PLUS II模拟器](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/33_82au_simulator.png "fx-82AU PLUS&fx-82AU PLUS II模拟器")
 
+## CONST 科学常数（fx-991ID PLUSのみ）
+
+KONSTANTA→CONSTANT
+
+Angka→Number
+
+![CONST 科学常数1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/34_const_1.jpg "CONST 科学常数1")
+
+fx-991ID PLUS以及大部分的fx-ES PLUS系列和ClassWiz X系列机型的常数值均基于CODATA(2010)推荐值；而fx-991DE PLUS的常数值基于CODATA(2007)推荐值。
+
+![CONST 科学常数2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/35_const_2.jpg "CONST 科学常数2")
+
+## CONV 单位转换
+
+KONVERSI→CONVERSION
+
+![CONV 单位转换](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/36_conv.jpg "CONV 单位转换")
+
 ## SETUP/SETEL 设置菜单
 
 BrsIO`[Display Baris]`→LineIO
@@ -242,7 +260,7 @@ DRJ`[d(e)r(a)j(at)]`→Deg`[degrees]`
 
 Grad`[grad(ien)]`→Gra`[grads]`
 
-![SETUP/SETEL1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/34_setup_1.jpg "SETUP/SETEL1")
+![SETUP/SETEL1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/37_setup_1.jpg "SETUP/SETEL1")
 
 Desul`[Des(imal) (ber)ul(ang)]`→Rdec`[R(ecurring) dec(imal)]` 循环节显示设置
 
@@ -250,25 +268,25 @@ DMO`[Daya Mematikan Otomatis]`→APO`[Auto Power Off]` 自动关机时间设置
 
 KONT`[KONT(RAS)]`→CONT`[CONTRAST]` 对比度设置
 
-![SETUP/SETEL2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/35_setup_2.jpg "SETUP/SETEL2")
+![SETUP/SETEL2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/38_setup_2.jpg "SETUP/SETEL2")
 
 ### CMPLX复数设置
 
 Hashil Complex→Complex Result
 
-![CMPLX](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/36_setup_3.jpg "CMPLX")
+![CMPLX](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/39_setup_3.jpg "CMPLX")
 
 ### STAT统计计算设置
 
 Frekuensi→Frequency
 
-![STAT](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/37_setup_4.jpg "STAT")
+![STAT](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/40_setup_4.jpg "STAT")
 
 ### 循环节显示设置（fx-991ID PLUSのみ）
 
 Desul`[Des(imal) (ber)ul(ang)]`→Rdec`[R(ecurring) dec(imal)]` 
 
-![Rdec](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/38_setup_5.jpg "Rdec")
+![Rdec](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/41_setup_5.jpg "Rdec")
 
 ###  自动关机时间设置（fx-991ID PLUSのみ）
 
@@ -276,7 +294,7 @@ DMO`[Daya Mematikan Otomatis]`→APO`[Auto Power Off]`
 
 在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS共3个地区的型号，fx-991ZA PLUS II的图片可前往我之前对fx-991ZA PLUS II的[评测贴](https://tieba.baidu.com/p/8249078929)17楼查看。
 
-![APO](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/39_setup_6.jpg "APO")
+![APO](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/42_setup_6.jpg "APO")
 
 ### CONTRAST对比度设置
 
@@ -286,79 +304,103 @@ CERAH→LIGHT
 
 GELAP→DARK
 
-![CONTRAST](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/40_setup_7.jpg "CONTRAST")
+![CONTRAST](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/43_setup_7.jpg "CONTRAST")
+
+## CLR 初始化
+
+Hapus`[(meng)hapus]`→Clear
+
+Setel→Setup
+
+Memori→Memory
+
+Semua→All
+
+![CLR 初始化1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/44_clr_1.jpg "CLR 初始化1")
+
+Ya→Yes
+
+Batal→Cancel
+
+![CLR 初始化2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/45_clr_2.jpg "CLR 初始化2")
+
+![CLR 初始化3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/46_clr_3.jpg "CLR 初始化3")
+
+![CLR 初始化4](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/47_clr_4.jpg "CLR 初始化4")
+
+![CLR 初始化5](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/48_clr_5.jpg "CLR 初始化5")
 
 ## 错误/提示
 
 ### 数学错误
 
-![数学错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/41_error_01.jpg "数学错误")
+![数学错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/49_error_01.jpg "数学错误")
 
 ### 语法错误（句法错误）
 
-![语法错误（句法错误）](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/42_error_02.jpg "语法错误（句法错误）")
+![语法错误（句法错误）](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/50_error_02.jpg "语法错误（句法错误）")
 
 ### 自变量错误
 
-![自变量错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/43_error_03.jpg "自变量错误")
+![自变量错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/51_error_03.jpg "自变量错误")
 
 ### 堆栈错误
 
-![堆栈错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/44_error_04.jpg "堆栈错误")
+![堆栈错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/52_error_04.jpg "堆栈错误")
 
 ### 存储器不足错误
 
-![存储器不足错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/45_error_05.jpg "存储器不足错误")
+![存储器不足错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/53_error_05.jpg "存储器不足错误")
 
 ### AC中断
 
-![AC中断](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/46_error_06.jpg "AC中断")
+![AC中断](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/54_error_06.jpg "AC中断")
 
 ### 维数错误
 
-![维数错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/47_error_07.jpg "维数错误")
+![维数错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/55_error_07.jpg "维数错误")
 
 ### 变量错误
 
-![变量错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/48_error_08.jpg "变量错误")
+![变量错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/56_error_08.jpg "变量错误")
 
 ### 无法求解错误
 
-![无法求解错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/49_error_09.jpg "无法求解错误")
+![无法求解错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/57_error_09.jpg "无法求解错误")
 
 ### 超时错误
 
-![超时错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/50_error_10.jpg "超时错误")
+![超时错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/58_error_10.jpg "超时错误")
 
 ### 不可约分错误
 
-![不可约分错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/51_error_11.jpg "不可约分错误")
+![不可约分错误](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/59_error_11.jpg "不可约分错误")
 
 ### 继续(Continue)
 
-![继续(Continue)](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/52_continue.jpg "继续(Continue)")
+![继续(Continue)](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/60_continue.jpg "继续(Continue)")
 
 ## 自检
 
-![自检1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/53_selftest_1.jpg "自检1")
+![自检1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/61_selftest_1.jpg "自检1")
 
 可以看到自检内的CONTRAST、LIGHT、DARK也均本土化了为印度尼西亚语。
 
-![自检2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/54_selftest_2.jpg "自检2")
+![自检2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/62_selftest_2.jpg "自检2")
 
 ## 拆机
 
 图中左侧为fx-100AU PLUS，右侧为fx-991ID PLUS，太阳能板为fx-991ID PLUS。
 
-![拆机1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/55_inside_1.jpg "拆机1")
+![拆机1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/63_inside_1.jpg "拆机1")
 
-![拆机2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/56_inside_2.jpg "拆机2")
+![拆机2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/64_inside_2.jpg "拆机2")
 
-![拆机3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/57_inside_3.jpg "拆机3")
+![拆机3](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/65_inside_3.jpg "拆机3")
 
-![拆机4](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/58_inside_4.jpg "拆机4")
+![拆机4](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/66_inside_4.jpg "拆机4")
 
-![太阳能板](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/59_inside_5.jpg "太阳能板")
+![太阳能板](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/67_inside_5.jpg "太阳能板")
 
 ## Fin.
 
@@ -366,4 +408,4 @@ GELAP→DARK
 
 放张截止到此评测码完字时，贴吧里仍未有过评测的型号的照片当结束图（
 
-![Fin.](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/60_end.jpg "Fin.")
+![Fin.](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/68_end.jpg "Fin.")
