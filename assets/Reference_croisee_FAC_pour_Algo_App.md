@@ -23,8 +23,8 @@
 | 12. || Attendre | Wait | 暂停 |
 | 13. || Répéter | Repeat | 循环N次 | 次数范围1~10000 |
 | 14. || Répéter jusqu'à | Repeat until | 循环直到某条件成立 |
-| 15. || Si Alors | If Then | 如果则执行___ |
-| 16. || Si Alors Sinon | If Then Else | 如果则执行___，否则执行___ |
+| 15. || Si Alors | If Then | 如果某条件成立则执行___ |
+| 16. || Si Alors Sinon | If Then Else | 如果某条件成立则执行___，否则执行___ |
 | 17. || Exécuter | Execute | 执行 | 进入坐标轴界面 |
 | 18. || Copier & Insérer | Copy & Insert | 复制并插入 |
 | 19. || Insérer ligne | Insert Row | 插入行 |
