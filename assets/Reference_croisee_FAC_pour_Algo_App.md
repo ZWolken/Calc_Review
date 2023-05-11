@@ -1,3 +1,9 @@
+---
+layout: default
+title: fx-92 Collège算法模式功能法语-英语-中文对照
+nav_exclude: true
+---
+
 ## Référence croisée français-anglais-chinois pour l'application Algo dans fx-92 Collège
 >fx-92 Collège算法模式功能法语-英语-中文对照
 
