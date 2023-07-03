@@ -10,7 +10,7 @@ nav_exclude: true
 | No. || Français | English | 中文 | 备注 |
 | ---: | :--- | :---: | :---: | :---: | :--- |
 | 1. || Avancer de | Move | 移动 |
-| 2. || Tourner de ⟲ | Turn ⟲ | 逆时针旋转 | 总旋转的度数保存在变量θ内 |
+| 2. || Tourner de ⟲ | Turn ⟲ | 以当前方向为起点逆时针旋转 | 总旋转的度数保存在变量θ内 |
 | 3. || S'orienter à | Direction | 以x轴正方向为起点逆时针旋转 | 总旋转的度数保存在变量θ内 |
 | 4. || Aller à x;y | Go to x;y | 移动至坐标(x,y) |
 | 5. || Stylo écrit | Pen Down | 落笔 | 落笔后的移动会形成轨迹 |
