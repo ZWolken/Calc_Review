@@ -13,6 +13,7 @@ has_toc: false
 精度镇楼
 
 ## 阅读须知
+
 1.  除非另有声明，本文的文字、图片等均为本人创作及拍摄，未经许可不得以任何形式对本文的全部或部分内容进行转载、复制、改编、发布至其他平台等。
 2. 文中的信息均基于发帖日期所能获取到的最新信息，当读者阅读时信息可能已有变化，一切均以最新消息为准。
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
@@ -202,6 +203,7 @@ Nilai→Value
 ![PRSMN(EQN)2](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/28_eqn_2.jpg "PRSMN(EQN)2")
 
 ### MATRIX（矩阵计算）（fx-991ID PLUSのみ）
+
 fx-991ID PLUS不具备Ref（行阶梯形式）和Rref（简化行阶梯形式）矩阵函数计算功能。
 
 ![MATRIX](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/29_matrix.jpg "MATRIX")
