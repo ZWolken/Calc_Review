@@ -41,7 +41,7 @@ fx-570VN PLUS是卡西欧在越南销售的本地化机型，后续升级机型�
 
 在越南销售的卡西欧计算器一直都不具备太阳能供电，但丝毫不影响fx-570VN PLUS的功能之强大。除开因拓展单位转换以及日版的元素周期表而直接排在第一第二的fx-995ES和fx-991DE PLUS，fx-570VN PLUS和fx-115ES PLUS(fx-991ES PLUS C)可以说是并列第三，具体后文会稍加说明。
 
-由于fx-570VN PLUS内部语言并没有本体化以及其本身的稀有性和没必要性，本评测基本只会展示fx-570VN PLUS的一些特点功能，并不会提及比较详细的功能说明和异常相关。
+由于fx-570VN PLUS内部语言并没有本地化以及其本身的稀有性和没必要性，本评测基本只会展示fx-570VN PLUS的一些特点功能，并不会提及比较详细的功能说明和异常相关。
 
 ![比较](../../assets/images/04_570VNPLUS/03_start_3.jpg "比较")
 
@@ -137,7 +137,7 @@ fx-570VN PLUS可计算复数i的4次方(i^4)。此外还有fx-991ID PLUS、fx-99
 
 fx-570VN PLUS具备g(x)定义生成功能。此外也具备该功能的有日本的fx-375ES、fx-915ES、fx-995ES、fx-520AZ四款型号、北美地区的fx-300ES PLUS、fx-115ES PLUS、fx-991ES PLUS C三款型号，南非的fx-82ZA PLUS、fx-991ZA PLUS两款型号。
 
-![TABLE（数表计算）](../../assets/images/04_570VNPLUS/19_table.jpg "")
+![TABLE（数表计算）](../../assets/images/04_570VNPLUS/19_table.jpg "TABLE（数表计算）")
 
 ### MATRIX（矩阵计算）
 
