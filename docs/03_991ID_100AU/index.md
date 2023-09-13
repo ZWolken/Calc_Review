@@ -24,7 +24,7 @@ has_toc: false
 
 感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对本文的补充以及存在错误的指正！
 
-之前在[fx-991CW的评测贴](https://tieba.baidu.com/p/8243470162)中提到过，我那台粉色的fx-991CW是从印尼购买的，其实一开始想买的是fx-991ID PLUS，但2022年底的印尼市场上全新的只有fx-991ID PLUS 2nd edition在销售，fx-991ID PLUS完全没货。由于fx-991ID PLUS 2nd edition的配色为黑色，实在是不喜欢，所以开始寻找二手的fx-991ID PLUS，最后是在Carousell.id上成功购入，再次也十分感谢我的代购~~（虽然她应该看不到这个贴）~~。
+之前在[fx-991CW的评测贴](https://zwolken.github.io/Calc_Review/docs/01_991CW/#%E7%AE%80%E8%A6%81%E4%BB%8B%E7%BB%8D)中提到过，我那台粉色的fx-991CW是从印尼购买的，其实一开始想买的是fx-991ID PLUS，但2022年底的印尼市场上全新的只有fx-991ID PLUS 2nd edition在销售，fx-991ID PLUS完全没货。由于fx-991ID PLUS 2nd edition的配色为黑色，实在是不喜欢，所以开始寻找二手的fx-991ID PLUS，最后是在Carousell.id上成功购入，再次也十分感谢我的代购~~（虽然她应该看不到这个贴）~~。
 
 我想购买fx-991ID PLUS的原因自然是它十分完善的本地化，不单单是内部系统显示和提示为印度尼西亚语，整个按键面板都基本为印度尼西亚语（后续会进行介绍）。
 
@@ -118,7 +118,7 @@ BASIS`[Basis-n]`→BASE
 
 PRSMN`[P(e)rs(a)m(aa)n]`→EQN
 
-TABLE`[Tabel]`→TABEL
+TABEL`[Tabel]`→TABLE
 
 ![MODE菜单1](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/11_mode_991id_1.jpg "MODE菜单1")
 
@@ -294,7 +294,7 @@ Des(imal) berulang→Recur(ring) Decimal
 
 DMO`[Daya Mematikan Otomatis]`→APO`[Auto Power Off]`
 
-在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS共3个地区的型号，fx-991ZA PLUS II的图片可前往我之前对fx-991ZA PLUS II的[评测贴](https://tieba.baidu.com/p/8249078929)17楼查看。
+在fx-ES PLUS系列中，拥有自动关机时间的设置菜单的为DE PLUS、ID PLUS、ZA PLUS共3个地区的型号，fx-991ZA PLUS II的图片可前往我之前对fx-991ZA PLUS II的[评测贴](https://zwolken.github.io/Calc_Review/docs/02_991ZAII/#%E8%87%AA%E5%8A%A8%E5%85%B3%E6%9C%BA%E6%97%B6%E9%97%B4apo-auto-power-off)17楼查看。
 
 ![APO](https://zwolken.github.io/Calc_Review/assets/images/03_991ID_100AU/42_setup_6.jpg "APO")
 
