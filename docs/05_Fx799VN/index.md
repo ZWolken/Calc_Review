@@ -141,8 +141,8 @@ do {
 
 ## 求解复数方程(Solve complex equations)
 
-于Fx680VN Plus上实装，在复数(Complex|Số phức)模式下进入OPTN菜单，第7项`Solve Poly|Giải P(hức)thích`即为复数方程求解功能，支持二次复数方程和三次复数方程。
-![Solve Poly|Giải P(hức)thích](../../assets/images/05_Fx799VN/21_solvepoly.jpg "Solve Poly|Giải P(hức)thích")
+于Fx680VN Plus上实装，在复数(Complex\|Số phức)模式下进入OPTN菜单，第7项`Solve Poly|Giải P(hức)thích`即为复数方程求解功能，支持二次复数方程和三次复数方程。
+![Solve Poly\|Giải P(hức)thích](../../assets/images/05_Fx799VN/21_solvepoly.jpg "Solve Poly\|Giải P(hức)thích")
 
 这里以说明书上的举例来说明：求解𝑧²+(1−3𝑖)𝑧+(−2−2𝑖)=0
 
@@ -232,7 +232,7 @@ SETUP内的语言设置将越南语设为默认，且将越南语的项目移到
 
 # 自检
 
-`SHIFT`+`7`+`ON`的组合键也可进入自检界面，"Press AC"的字样有上移。键入`9`进入常规自检流程，无法在此界面键入`6`或者`8`调出卡西欧新加入的两个自检模式。
+`SHIFT`+`7`+`ON`的组合键也可进入自检界面，`Press AC`的字样有上移。键入`9`进入常规自检流程，无法在此界面键入`6`或者`8`调出卡西欧新加入的两个自检模式。
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/43_diagnostic_01.jpg "DIAGNOATIC")
 
 一路SHIFT，顺便可以看到在卡西欧fx-580VN X中不使用的化简状态提示符被替换成了前文提及的自定义快捷键提示符。
@@ -272,7 +272,7 @@ CHECKSUM:8617h
 按下AC键，进入按键检测环节，检测的第1和第2个按键是左右两侧的快捷按键。由于多了两侧的自定义快捷键，因而按下Ans键后屏幕显示50。
 ![按键检测](../../assets/images/05_Fx799VN/51_diagnostic_09.jpg "按键检测")
 
-按下最后一个=键进入对比度调整界面，与卡西欧机型不同的是，这个界面状态栏正常显示角度设置等状态提示符，后续步骤流程一致。
+按下最后一个`=`键进入对比度调整界面，与卡西欧机型不同的是，这个界面状态栏正常显示角度设置等状态提示符，后续步骤流程一致。
 ![对比度调整](../../assets/images/05_Fx799VN/52_diagnostic_10.jpg "对比度调整")
 
 # 拆机
