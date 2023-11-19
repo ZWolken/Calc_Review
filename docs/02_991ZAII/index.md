@@ -42,7 +42,7 @@ has_toc: false
 
 根据维基百科的说明，在1925年前南非的官方语言一直是荷兰语(Dutch)，南非(South Africa)在荷兰语中是Zuid-Afrika，这也便是ZA的由来， 在ISO 3166中，也是规定了ZA为南非的Alpha-2 code。
 
-鉴于贴吧内已有@喜羊羊第x代对fx-115ES PLUS 2nd edition的[相关简略评测](https://tieba.baidu.com/p/7591156428)，本文将不会再对两机型中fx-115ES PLUS 2nd edition已存在的功能做过多评测。
+鉴于贴吧内已有[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对fx-115ES PLUS 2nd edition的[相关简略评测](https://tieba.baidu.com/p/7591156428)，本文将不会再对两机型中fx-115ES PLUS 2nd edition已存在的功能做过多评测。
 
 下方图片为fx-ES PLUS 2nd edition的全部型号（应该是全部）（部分信息来源：[fx-ES PLUS Emulator Subscription](https://edu.casio.com/products/classroom/es_plus/)）
 

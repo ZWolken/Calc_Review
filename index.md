@@ -19,3 +19,14 @@ nav_order: 1
 ## 5. \[创新？盗版？\]Flexio Fx799VN评测：[链接](https://zwolken.github.io/Calc_Review/docs/05_Fx799VN/)
 
 ## 6. \[稀有型号\]Canon X Mark I Pro简评：[链接](https://zwolken.github.io/Calc_Review/docs/06_XMarkIPro/)
+
+
+
+
+
+
+
+
+# 友情链接
+
+## 1. 卡西欧 fx-915ES & 995ES 简评 by [MeigenChou](https://github.com/MeigenChou)：[链接](https://meigenchou.github.io/calc/ES_995_915.html)
