@@ -13,6 +13,7 @@ has_toc: false
 >若网页中图片无法正常显示，请检查当前网络环境能否正常访问GitHub。
 
 ![Geometry（几何）模式](../../assets/images/05_Fx799VN/01_start.jpg "Geometry（几何）模式")
+
 Geometry（几何）模式镇楼
 
 # 阅读须知
@@ -53,41 +54,54 @@ Geometry（几何）模式镇楼
 # 包装及外观
 
 外包装为纸盒，其正面展示了几个最主要的特色功能，跟卡西欧越南销售的计算器型号一致，都提供7年的质保。右下角的二维码通往其保修网站。
+
 ![包装盒正面](../../assets/images/05_Fx799VN/02_package_front.jpg "包装盒正面")
 
 侧面的贴纸是THIÊNLONG官方商城的2023年活动。
+
 ![包装盒侧面](../../assets/images/05_Fx799VN/03_package_side.jpg "包装盒侧面")
 
 包装盒背面右下的部分内"Sản xuất tại Trung Quốc"，就是喜闻乐见的Made in China，嗯，目前的盗版型号基本都还是中国生产。"Năm sản xuất: 2023"，生产年份为2023年。背面的几张屏幕截图均是对特色功能的介绍。
+
 ![包装盒背面](../../assets/images/05_Fx799VN/04_package_back.jpg "包装盒背面")
+
 ![产地](../../assets/images/05_Fx799VN/05_package_back_sanxuat.jpg "产地")
 
 包装盒内包含：计算器本体、新功能介绍说明书、泡泡纸袋、防潮袋、THIÊNLONG卡通贴纸（背面有官网活动的抽奖兑换码）。
+
 ![内容物](../../assets/images/05_Fx799VN/06_allstuff.jpg "内容物")
 
 计算器本体共有紫黑白红四种配色，我这台是白色的配色。
+
 ![配色](../../assets/images/05_Fx799VN/07_fx799vn_den_trang_hong_tim.png "配色")
 >该图来自THIÊNLONG官网产品销售界面：[链接](https://thienlong.vn/products/may-tinh-khoa-hoc-thien-long-flexio-fx799vn)
 
 计算器正面的按键布局跟卡西欧的fx-580VN X型号并不完全一致，跟FLEXIO前几代的按键分布一样，OPTN键位于第一行的最右侧，其他三个功能键均左移；OPTN的第二功能键GEOM只在几何模式(Geometry)内生效；数字0拥有第三功能键RanABC；数字5拥有第二功能键自定义功能快捷键(Function Shortcut)设置键；数字6拥有第二功能键Mod。上述内容具体均会在后文进行说明。
+
 ![按键布局](../../assets/images/05_Fx799VN/08_front.jpg "按键布局")
 
 可以看到由于两侧的按键而形成了这个大额头的造型（前一款型号Fx680VN Plus两侧没有按键，不存在大额头），两侧按键具体的作用后文会说明。
+
 ![侧面按键](../../assets/images/05_Fx799VN/09_side.jpg "侧面按键")
 
 计算器背面标注了THIÊNLONG的商标、一行字`Product of Thien Long Group Corporation`，没有标注产地。贴纸以及二维码都是保修相关。
+
 ![背面](../../assets/images/05_Fx799VN/10_back.jpg "背面")
+
 ![THIÊNLONG商标](../../assets/images/05_Fx799VN/11_back_thienlong.jpg "THIÊNLONG商标")
 
 包装盒内侧印刷有`20230530`的字样，可以判断这应该是生产组装时间。
+
 ![包装盒内侧印刷](../../assets/images/05_Fx799VN/12_package_inside.jpg "包装盒内侧印刷")
 
 注意，新功能介绍说明书并不类似于卡西欧新生产机型附带的启动指南(Startup Guide)说明纸。卡西欧的启动指南(Startup Guide)说明纸有明确说明只介绍了基本操作，并给出了完整用户说明书的网站链接。
 
 而这份新功能介绍说明书仅仅只印刷了复数方程求解、几何模式(Geometry)、自定义功能快捷键(Function Shortcut)三个新功能的使用说明。对于完整的用户说明书，说明书内完全没有给出文字说明引导。
+
 ![NHỮNG TÍNH NĂNG MỚI正面](../../assets/images/05_Fx799VN/13_nhungtinhnangmoi_front.jpg "NHỮNG TÍNH NĂNG MỚI正面")
 
 在这份说明书的最后一页有一个通往THIÊNLONG保修网站的二维码，你可以自行搜索前往保修网站的Fx799VN介绍页，在介绍网页的最底部有给出完整的用户说明书的下载地址。但请再次注意，完整的用户说明书的下载地址在这份新功能介绍说明书内完全没有任何文字说明或引导，就孤零零的一个二维码放在最后一页，可以说用户体验极差。
+
 ![NHỮNG TÍNH NĂNG MỚI背面](../../assets/images/05_Fx799VN/14_nhungtinhnangmoi_back.jpg "NHỮNG TÍNH NĂNG MỚI背面")
 
 顺便提一嘴，新功能介绍说明书、完整用户说明书内的屏幕截图分辨率完全不统一，可以推测有些是直接照搬卡西欧fx-580VN X的说明书图片、有些是THIÊNLONG自己的截图；在英文版的用户说明书内，有些图片就像缺墨一样还有阴影（网站下载PDF文档，并非打印），可以推测应该是直接对着计算器屏幕拍照然后再经过图片处理软件处理成黑白的。（几个说明书PDF文档都可前往[GitHub存档仓库](https://github.com/ZWolken/dentaku_doc)下载）
@@ -99,17 +113,21 @@ Geometry（几何）模式镇楼
 ## 求余计算(Mod)
 
 于卡西欧ES PLUS时代同期的Fx590VN型号上就已经实装。与÷R运算不同的是，÷R的运算结果会同时显示商和余数，但可赋值给变量的只有商的结果，而Mod计算的结果就只有余数。该功能函数可通过`ALPHA`+`6`键入，卡西欧ES PLUS时代同期的Fx590VN型号也是完全一致的输入方式，个人认为从此便可窥探盗版机系统的一处屎山代码。
+
 ![求余计算(Mod)](../../assets/images/05_Fx799VN/15_mod.jpg "求余计算(Mod)")
 
 ## 连续的菜单序号
 
 于Fx680VN上实装，以矩阵模式的OPTN菜单为例，可以看到第二页的序号是接着上一页的序号的，因而当1~9不够用时，会出现分配到A等字母按键的菜单。
+
 ![连续的菜单序号](../../assets/images/05_Fx799VN/16_matrixoptn.jpg "连续的菜单序号")
 
 而双曲函数、角度单位、工程符号三个常驻OPTN菜单直接分配到了`x`、`y`、`z`按键。
+
 ![常驻OPTN菜单](../../assets/images/05_Fx799VN/17_optn.jpg "常驻OPTN菜单")
 
 另外，科学常数和单位换算的一级菜单也是如此设计，也就是说可以直接按下`SHIFT`+`8`+`6`+`7`来输入`lbf/in²▸kPa`，而不像卡西欧ClassWiz初代需要用`SHIFT`+`8`+`↓`+`2`+`7`。不得不说这样的设计非常适合盲打使用。
+
 ![单位换算](../../assets/images/05_Fx799VN/18_conv.jpg "单位换算")
 
 SETUP设置菜单不具备此特性。
@@ -117,6 +135,7 @@ SETUP设置菜单不具备此特性。
 ## 自动补齐右括号(Auto-close bracket)
 
 于Fx680VN上实装，在SETUP设置内将第4页第3项`Close bracket|Đóng ngoặc`项设置为开启`On|Sử dụng`后，在任意支持输入括号的位置，若当前光标所在输入层次后方无内容，在键入左括号或者任何带左括号的函数功能后，会自动补齐右括号，光标保持在左右括号之间。
+
 ![自动补齐右括号(Auto-close bracket)](../../assets/images/05_Fx799VN/19_autoclosebrcket.jpg "自动补齐右括号(Auto-close bracket)")
 
 此时按下`DEL`仅会删除光标前的字符，后面的右括号仍保留。
@@ -124,6 +143,7 @@ SETUP设置菜单不具备此特性。
 ## 随机字母(Random letters RanABC)
 
 于Fx680VN上实装，只支持在基础计算模式下使用，最大支持A~J范围内的字母随机，即`RanABC(2)`~`RanABC(10)`，输入1会报参数错误(Argument Error|Lỗi đối số)，超过10后会报数学错误(Math Error|Lỗi phép tính)。若在其他的模式下，要么无法输入该功能函数，要么输出的是输入设定的参数数值，而并非随机字母。
+
 ![随机字母(Random letters RanABC)](../../assets/images/05_Fx799VN/20_ranabc.jpg "随机字母(Random letters RanABC)")
 
 虽然但是，这个功能除了考场抓阄外我想不出其他用途。
@@ -144,14 +164,19 @@ do {
 ## 求解复数方程(Solve complex equations)
 
 于Fx680VN Plus上实装，在复数(Complex\|Số phức)模式下进入OPTN菜单，第7项`Solve Poly|Giải P(hức)thích`即为复数方程求解功能，支持二次复数方程和三次复数方程。
+
 ![Solve Poly\|Giải P(hức)thích](../../assets/images/05_Fx799VN/21_solvepoly.jpg "Solve Poly\|Giải P(hức)thích")
 
 这里以说明书上的举例来说明：求解𝑧²+(1−3𝑖)𝑧+(−2−2𝑖)=0
 
 选择OPTN内求解功能选项，选择第2项`𝑎𝑧²+𝑏𝑧+𝑐=0`，`𝑎`输入`1`，`𝑏`输入`1−3𝑖`，`𝑐`输入`−2−2𝑖`，按下`=`键求解，即可得`𝑧₁=2𝑖`; `𝑧₂=-1+𝑖`，即为该复数方程的解。
+
 ![求解复数方程](../../assets/images/05_Fx799VN/22_solvepoly_menu.jpg "求解复数方程")
+
 ![求解复数方程](../../assets/images/05_Fx799VN/23_solvepoly_input.jpg "求解复数方程")
+
 ![求解复数方程](../../assets/images/05_Fx799VN/24_solvepoly_result_1.jpg "求解复数方程")
+
 ![求解复数方程](../../assets/images/05_Fx799VN/25_solvepoly_result_2.jpg "求解复数方程")
 
 ## 几何模式(Geometry mode)
@@ -165,10 +190,13 @@ do {
 在SETUP设置内将第4页第4项`Shortcut Func|Phím tắt`项设置为开启`On|Sử dụng`后，即可使用该功能（即使关闭也能正常录入按键，但长按快捷键不会有反应）。
 
 键入SHIFT+5在菜单中选择左按键或者右按键，随即开始记录，此时屏幕内提示栏内的自定义快捷键图标亮起。
+
 ![自定义快捷键(Function Shortcut)](../../assets/images/05_Fx799VN/27_shortcutfunc.jpg "自定义快捷键(Function Shortcut)")
+
 ![自定义快捷键图标](../../assets/images/05_Fx799VN/28_shortcutfunc_icon.jpg "自定义快捷键图标")
 
 可通过SHIFT+5或者=键退出录制模式并保存；亦或在记录满6个按键或按键组合后自动退出保存，此时屏幕会提示`Saved to Left/Right|Lưu vào N. Trái/Phải`。
+
 ![退出保存](../../assets/images/05_Fx799VN/29_shortcutfunc_exit.jpg "退出保存")
 
 计算器两侧的快捷键跟正面的按键键程键感完全不同，两个按键较舒适清脆。如果各位有捣鼓使用过单片机的话，就会发现这两个按键键感跟单片机上通用使用的按键(SW)非常类似，后文的拆机环节各位也会看到其按键确实类似。
@@ -180,45 +208,57 @@ BUG/特性：若在录入过程中录入了计算器两侧的快捷键调取键�
 ## n进计算（基数）模式(Base-N)
 
 OPTN菜单内第一页的6个位运算符顺序跟卡西欧ClassWiz一代型号起的顺序并不一样，而是保留了ES PLUS系列的顺序，是屎山代码还是故意为之就无从得知了。
+
 ![n进计算（基数）模式(Base-N)](../../assets/images/05_Fx799VN/30_basen.jpg "n进计算（基数）模式(Base-N)")
 
 ## 验证计算模式(Verify)
 
 英文环境下该模式的界面空白默认提示为`TRUE/FALSE`，而并非ClassWiz一代型号所显示的`Verify`。
+
 ![验证计算模式(Verify)](../../assets/images/05_Fx799VN/31_verify_eng.jpg "验证计算模式(Verify)")
 
 越南语环境下均显示`Đúng/Sai`。
+
 ![验证计算模式(Verify)](../../assets/images/05_Fx799VN/32_verify_viet.jpg "验证计算模式(Verify)")
 
 ## 计算提示
 
 当进行长时间计算时，屏幕不会保持白屏，而是显示"Calculating...|Đangtínhtoán..."
+
 ![Calculating...](../../assets/images/05_Fx799VN/33_calculating.jpg "Calculating...")
+
 ![Đangtínhtoán...](../../assets/images/05_Fx799VN/34_dangtinhtoan.jpg "Đangtínhtoán...")
 
 ## 累乘运算（大π）
 
 可以看到累乘运算的标志存在区别。
+
 ![累乘运算（大π）](../../assets/images/05_Fx799VN/35_bigpi.jpg "累乘运算（大π）")
 
 ## 语言设置
 
 SETUP内的语言设置将越南语设为默认，且将越南语的项目移到菜单内第一项。
+
 ![语言设置](../../assets/images/05_Fx799VN/36_ngonngu.jpg "语言设置")
 
 # 精度
 
 喜闻乐见的精度检测公式的结尾是2，并不是卡西欧函数计算器的7。
+
 ![精度检测公式](../../assets/images/05_Fx799VN/37_scttcs9.jpg "精度检测公式")
 
 内部精度也是15位。
+
 ![内部精度](../../assets/images/05_Fx799VN/38_precison.jpg "内部精度")
 
 浮点运算的精度也是40位。
+
 ![浮点运算精度](../../assets/images/05_Fx799VN/39_floating.jpg "浮点运算精度")
 
 卡西欧计算器上不含π的算式结果含π的BUG不会出现。
+
 ![算式结果含π的BUG](../../assets/images/05_Fx799VN/40_pibug_1.jpg "算式结果含π的BUG")
+
 ![算式结果含π的BUG](../../assets/images/05_Fx799VN/41_pibug_2.jpg "算式结果含π的BUG")
 
 但注意，国内盗版机的计算结果出错的现象在这台Fx799VN上只是暂时没有被发现，并不代表没有。
@@ -226,6 +266,7 @@ SETUP内的语言设置将越南语设为默认，且将越南语的项目移到
 # 计算速度
 
 在弧度模式下运算Σ(sinx,1,1000)($\sum_{x=1}^{1000} sinx$)，对比机型为卡西欧的fx-580VN X以及fx-880BTG。
+
 ![计算速度](../../assets/images/05_Fx799VN/42_speedtest.jpg "计算速度")
 
 测试结果如下：卡西欧fx-880BTG耗时14.54s；Fx799VN耗时15.08s；卡西欧fx-580VN X耗时32.27s。
@@ -235,17 +276,23 @@ SETUP内的语言设置将越南语设为默认，且将越南语的项目移到
 # 自检
 
 `SHIFT`+`7`+`ON`的组合键也可进入自检界面，`Press AC`的字样有上移。键入`9`进入常规自检流程，无法在此界面键入`6`或者`8`调出卡西欧新加入的两个自检模式。
+
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/43_diagnostic_01.jpg "DIAGNOATIC")
 
 一路SHIFT，顺便可以看到在卡西欧fx-580VN X中不使用的化简状态提示符被替换成了前文提及的自定义快捷键提示符。
+
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/44_diagnostic_02.jpg "DIAGNOATIC")
 
 Fx590VN的屏幕自检流程存在一个大方框的界面，边框右侧存在缺口。
+
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/45_diagnostic_03.jpg "DIAGNOATIC")
+
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/46_diagnostic_04.jpg "DIAGNOATIC")
 
 交替显示并非卡西欧的单像素，而是像素方块组交替显示。
+
 ![像素方块组交替显示](../../assets/images/05_Fx799VN/47_diagnostic_05.jpg "像素方块组交替显示")
+
 ![像素方块组交替显示](../../assets/images/05_Fx799VN/48_diagnostic_06.jpg "像素方块组交替显示")
 
 接着可以看到
@@ -256,6 +303,7 @@ THIENLONG GROUP
 
 Press AC
 ```
+
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/49_diagnostic_07.jpg "DIAGNOATIC")
 
 在此界面按下tan键，第二行的
@@ -269,12 +317,15 @@ THIENLONG GROUP
 ```plain
 CHECKSUM:8617h
 ```
+
 ![CHECKSUM](../../assets/images/05_Fx799VN/50_diagnostic_08.jpg "CHECKSUM")
 
 按下AC键，进入按键检测环节，检测的第1和第2个按键是左右两侧的快捷按键。由于多了两侧的自定义快捷键，因而按下Ans键后屏幕显示50。
+
 ![按键检测](../../assets/images/05_Fx799VN/51_diagnostic_09.jpg "按键检测")
 
 按下最后一个`=`键进入对比度调整界面，与卡西欧机型不同的是，这个界面状态栏正常显示角度设置等状态提示符，后续步骤流程一致。
+
 ![对比度调整](../../assets/images/05_Fx799VN/52_diagnostic_10.jpg "对比度调整")
 
 # 拆机
@@ -282,16 +333,21 @@ CHECKSUM:8617h
 拧下背部的6枚螺丝，因卡扣的存在，后壳并不会直接拆开。使用塑料片划开两侧的卡扣，后壳打开。
 
 两侧的自定义快捷键会很容易掉出，因此拆机请注意在平整的桌面上操作。
+
 ![自定义快捷键](../../assets/images/05_Fx799VN/53_inside_1.jpg "自定义快捷键")
 
 可以看到顶部为两枚7号电池，屏幕背部使用铁片保护，也因此整个计算器握持起来上端明显偏重。
+
 ![内部](../../assets/images/05_Fx799VN/54_inside_2.jpg "内部")
 
 两侧的自定义快捷键分别有一个小的PCB板各通过两根导线与主板连接。
+
 ![自定义快捷键PCB板](../../assets/images/05_Fx799VN/55_inside_3.jpg "自定义快捷键PCB板")
+
 ![自定义快捷键PCB板](../../assets/images/05_Fx799VN/56_inside_4.jpg "自定义快捷键PCB板")
 
 屏幕的排线通过排线卡座与主板连接，因而屏幕应该是可以拆卸的。
+
 ![内部上端](../../assets/images/05_Fx799VN/57_inside_5.jpg "内部上端")
 
 PCB主板使用了盗版常用的磨砂封胶处理。右侧有THIÊNLONG的商标，下端有如下字样：
@@ -300,6 +356,7 @@ PCB主板使用了盗版常用的磨砂封胶处理。右侧有THIÊNLONG的商�
 FX799VN
 2023 03 01 GFL			2023.04
 ```
+
 ![PCB主板](../../assets/images/05_Fx799VN/58_inside_6.jpg "PCB主板")
 
 可以推测这款计算器的PCB电路板是在2023年三四月份设计制造的。
@@ -313,12 +370,15 @@ Fx799VN将计算器从前几代的弯曲造型改为了跟卡西欧计算器一�
 通过照片各位也可以看到我这台白色的型号，第二功能采用灰色墨水印刷，第三功能采用蓝色墨水印刷，n进运算使用橘黄，复数使用紫色。但是MENU和ON单独使用了大红色，跟卡西欧ClassWiz一代机型相比我个人认为比较突兀，有盗版感觉.jpg
 
 n进运算（基数）的功能印刷较偏上，SHIFT和ON印刷较偏上偏外，但总体还在接受范围内，不像一些山寨机一样印刷不知道飘到哪里去了。
+
 ![按键印刷](../../assets/images/05_Fx799VN/59_fake_1.jpg "按键印刷")
 
 Fx799VN屏幕与卡西欧ClassWiz一代机型相比，个人体感液晶层跟最外层玻璃的距离更大，这也就导致屏幕上像素的阴影比卡西欧机型更明显。
 
 如果各位有细看图片的话，应该能发现在Fx799VN的模式选择界面，各模式被选中时的反色外框并没有做圆角处理，各模式右下角的序号背景也存在不同，并不统一。尤其是第7项分布模式，未被选中时右侧的1像素外框不见了，序号7的背景也显得格外不同，分布模式的图标跟卡西欧ClassWiz一代机型相比后发现向下移动了1px，总体UI设计就显得比较诡异。
+
 ![模式选择界面](../../assets/images/05_Fx799VN/60_fake_2.jpg "模式选择界面")
+
 ![分布模式](../../assets/images/05_Fx799VN/61_fake_3.jpg "分布模式")
 
 按键和屏幕的响应速度与卡西欧ClassWiz一代机型相比稍有变慢，不过前文也有提及，与卡西欧fx-580VN X相比，计算速度是存在提升的。
@@ -343,4 +403,5 @@ Fx799VN屏幕与卡西欧ClassWiz一代机型相比，个人体感液晶层跟�
 不过话说回来，就算这些新加的功能使用起来有多割裂，但确实是创新了，加入了别的型号没有的功能，跟国内某些计算器相比好太多太多了。国内的某几大厂生产的函数计算器就只是单纯的盗版山寨套壳，一切功能都跟fx-991CN X保持一致，虽说售价相比卡西欧的正版机低，但出现计算错误或者无法计算的BUG层出不穷。对于大多数计算器的使用场景是在考场的情况下，这种BUG可以说是致命的，不要抱着侥幸的态度而节省这个差价，吧内也都是在宣传强调不要购买使用盗版机型。我本人对于盗版机（包括这台Fx799VN）一直都是持反对态度，正常使用用途不要买也不要用盗版机，虽说我目前没发现Fx799VN有出现计算BUG，但也只是目前没发现而已。
 
 最后放张关机图作为尾图，可以看到关机标志已经魔改成FLEXIO的商标了。
+
 ![关机图](../../assets/images/05_Fx799VN/63_poweroff.jpg "关机图")
