@@ -1,12 +1,14 @@
 ---
 layout: default
-title: [fx-ES PLUS]fx-570VN PLUS简评
+title: fx-570VN PLUS简评
 nav_order: 5
 has_children: false
 has_toc: false
 ---
 
-# **[fx-ES PLUS]fx-570VN PLUS简评**
+# **\[fx-ES PLUS\]fx-570VN PLUS简评**
+
+![licence](https://img.shields.io/badge/License-CC--BY--4.0-orange?style=for-the-badge&logo=contributions)
 
 >若网页中图片无法正常显示，请检查当前网络环境能否正常访问GitHub。
 

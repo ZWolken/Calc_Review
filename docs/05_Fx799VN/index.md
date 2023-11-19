@@ -1,12 +1,16 @@
 ---
 layout: default
-title: [创新？盗版？]Flexio Fx799VN评测
+title: Flexio Fx799VN评测
 nav_order: 6
 has_children: false
 has_toc: false
 ---
 
-# **[创新？盗版？]Flexio Fx799VN评测**
+# **\[创新？盗版？\]Flexio Fx799VN评测**
+
+![licence](https://img.shields.io/badge/License-CC--BY--4.0-orange?style=for-the-badge&logo=contributions)
+
+>若网页中图片无法正常显示，请检查当前网络环境能否正常访问GitHub。
 
 ![Geometry（几何）模式](../../assets/images/05_Fx799VN/01_start.jpg "Geometry（几何）模式")
 Geometry（几何）模式镇楼
@@ -20,9 +24,7 @@ Geometry（几何）模式镇楼
 5. 本人并不认可盗版行为也不提倡购买盗版商品。
 6. Fx799VN是越南教育和培训部颁布的《高级中等学校毕业考试条例》文件所批准的机型，其内置的新增功能是经过越南教育和培训部批准的，在越南境内并不违规。本人反对一切对于大陆境内批准的考试用计算器机型的改装行为。
 7. 本文章内“盗版”、“山寨”、"fake"、"clone"均认为是同一含义，不进行区分。
-8. 本评测贴已进行存档，为了更好的阅读效果，以及若本评测贴出现楼层被吞的情况，可前往存档地址进行阅读：https://zwolken.github.io/Calc_Review/docs/05_Fx799VN/
-
-注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
+>注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 # 写在前面
 
