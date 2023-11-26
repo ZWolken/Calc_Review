@@ -165,7 +165,7 @@ do {
 
 于Fx680VN Plus上实装，在复数(Complex\|Số phức)模式下进入OPTN菜单，第7项`Solve Poly|Giải P(hức)thích`即为复数方程求解功能，支持二次复数方程和三次复数方程。
 
-![Solve Poly|Giải P(hức)thích](../../assets/images/05_Fx799VN/21_solvepoly.jpg "Solve Poly|Giải P(hức)thích")
+![Solve Poly\|Giải P(hức)thích](../../assets/images/05_Fx799VN/21_solvepoly.jpg "Solve Poly\|Giải P(hức)thích")
 
 这里以说明书上的举例来说明：求解𝑧²+(1−3𝑖)𝑧+(−2−2𝑖)=0
 
