@@ -21,11 +21,11 @@ has_toc: false
 2. 文中的信息均基于发帖日期所能获取到的最新信息，当读者阅读时信息可能已有变化，一切均以最新消息为准。
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
 4. 除非另有提及，否则文中出现的所有实际产品均为本人自费购买，本文不构成任何购买建议。
->注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
+>注：部分阅读须知内容来自[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 ## 写在前面
 
-感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对本文的补充以及存在错误的指正！
+感谢[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对本文的补充以及存在错误的指正！
 
 在各种机缘巧合下，我得到了一台成色挺不错且箱说全的fx-570VN PLUS，由于贴吧内没有人发过实机的图片，我想了想决定拍了些照片，写了以下这一点点评测。
 
@@ -63,7 +63,7 @@ fx-570VN PLUS是卡西欧在越南销售的本地化机型，后续升级机型�
 
 ![包装内容_背面](../../assets/images/04_570VNPLUS/06_package_3.jpg "包装内容_背面")
 
-如果有看过由[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)写的[fx-880BTG评测](https://tieba.baidu.com/p/8088620034)的话，你可能会对外包装上的几张贴纸感到眼熟。
+如果有看过由[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)写的[fx-880BTG评测](https://tieba.baidu.com/p/8088620034)的话，你可能会对外包装上的几张贴纸感到眼熟。
 
 这里放上fx-570VN PLUS、fx-580VN X、fx-880BTG三者的外包装。包装上的贴纸应该均是由BITEX经销商贴上的。在刚刚展示的保修卡上有说明fx-570VN PLUS的保修时长为2年，而后期生产的fx-580VN X以及fx-880BTG都提供了7年的质保。具体翻译可见[fx-880BTG的评测](https://tieba.baidu.com/p/8088620034)。
 

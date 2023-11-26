@@ -23,7 +23,7 @@ has_toc: false
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
 4. 除非另有提及，否则文中出现的所有实际产品均为本人自费购买，本文不构成任何购买建议。
 5. 本文章不对Canon的函数计算器是否是山寨盗版进行讨论，本人并不认可盗版行为也不提倡购买盗版商品。
-> 注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
+> 注：部分阅读须知内容来自[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 # 写在前面
 

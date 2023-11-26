@@ -20,19 +20,19 @@ has_toc: false
 2. 文中的信息均基于发帖日期所能获取到的最新信息，当读者阅读时信息可能已有变化，一切均以最新消息为准。
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
 4. 文中出现的所有实际产品均为本人自费购买，本文不构成任何购买建议。
->注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
+>注：部分阅读须知内容来自[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 ## 写在前面
 
-感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)和[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)对本文的补充以及存在错误的指正！
+感谢[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)和[pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)对本文的补充以及存在错误的指正！
 
-**异常相关初探的内容均由[@pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)进行撰写。**
+**异常相关初探的内容均由[pyridinephenol](https://tieba.baidu.com/home/main/?id=tb.1.96303922.8s1lnkVa10MeKccPfcpLLA)进行撰写。**
 
 fx-991CW跟fx-991EX一样属于非本地化（本土化）的国际性型号，在全球多个国家地区都有上市销售，但是每个国家地区的销售价格和型号都各有差异，从价格和颜色方面考虑最终我选择了从印尼买入fx-991CW的粉色机型。
 
-由于[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)已经对fx-880BTG进行了非常非常详细的[评测](https://tieba.baidu.com/p/8088620034)，而fx-991CW相比于fx-880BTG并没有多什么的功能，因此本评测可看作是简评，功能方面我并不会做过多评测，相关详细内容可参考[fx-880BTG的评测](https://tieba.baidu.com/p/8088620034)。
+由于[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)已经对fx-880BTG进行了非常非常详细的[评测](https://tieba.baidu.com/p/8088620034)，而fx-991CW相比于fx-880BTG并没有多什么的功能，因此本评测可看作是简评，功能方面我并不会做过多评测，相关详细内容可参考[fx-880BTG的评测](https://tieba.baidu.com/p/8088620034)。
 
-本文还会出现fx-880BTG、fx-991EX等型号的计算器作为对比，由于[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对[fx-880BTG的评测](https://tieba.baidu.com/p/8088620034)为英语环境，本评测贴会将fx-880BTG设置为越南语进行对照评测（相关越南语会提供翻译）。
+本文还会出现fx-880BTG、fx-991EX等型号的计算器作为对比，由于[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对[fx-880BTG的评测](https://tieba.baidu.com/p/8088620034)为英语环境，本评测贴会将fx-880BTG设置为越南语进行对照评测（相关越南语会提供翻译）。
 
 ## 简要介绍
 
@@ -109,7 +109,7 @@ CW系列采用了全新的卡扣式保护盖而非滑动式保护壳，材质为
 
 ![保护盖](../../assets/images/01_991CW/11_cover.jpg "保护盖")
 
-本人对其观点与@喜羊羊第x代一致，对于保护盖的变动我认为不尽如人意。
+本人对其观点与喜羊羊第x代一致，对于保护盖的变动我认为不尽如人意。
 
 ### 按键/印刷
 
@@ -233,17 +233,17 @@ Matrix（矩阵）模式中fx-991CW和fx-880BTG均不具备Ref和Rref函数功�
 
 ![Math Box](../../assets/images/01_991CW/33_differ_mathbox.jpg "Math Box")
 
-对于fx-991CW其他模式（应用）和功能的详细说明评测，请看@喜羊羊第x代对fx-880BTG的[评测贴](https://tieba.baidu.com/p/8088620034)。
+对于fx-991CW其他模式（应用）和功能的详细说明评测，请看喜羊羊第x代对fx-880BTG的[评测贴](https://tieba.baidu.com/p/8088620034)。
 
 ## 异常相关初探
 
-ClassWiz X（第一代）系列的*x*=AAcm▸in的BUG在ClassWiz CW系列上依然行之有效。（来源：[@pyridinephenol的帖子](https://tieba.baidu.com/p/8157555776)）
+ClassWiz X（第一代）系列的*x*=AAcm▸in的BUG在ClassWiz CW系列上依然行之有效。（来源：[pyridinephenol的帖子](https://tieba.baidu.com/p/8157555776)）
 
 ![x=AAcm▸in的BUG_1](../../assets/images/01_991CW/34_abnormal_1.jpg "x=AAcm▸in的BUG_1")
 
 ![x=AAcm▸in的BUG_2](../../assets/images/01_991CW/35_abnormal_2.jpg "x=AAcm▸in的BUG_2")
 
-ClassWiz X（第一代）系列的100an在CW系列中失效，且设置控制区相比X系列向前移了许多，不稳定字符以及变量存储区也后移了许多，推测是为了防止通过输入区改写设置区内容（下图为fx-991CW和fx-991EX的内存对比）（感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)）
+ClassWiz X（第一代）系列的100an在CW系列中失效，且设置控制区相比X系列向前移了许多，不稳定字符以及变量存储区也后移了许多，推测是为了防止通过输入区改写设置区内容（下图为fx-991CW和fx-991EX的内存对比）（感谢[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)）
 
 ![内存对比](../../assets/images/01_991CW/36_abnormal_3.png "内存对比")
 

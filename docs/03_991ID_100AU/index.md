@@ -21,11 +21,11 @@ has_toc: false
 2. 文中的信息均基于发帖日期所能获取到的最新信息，当读者阅读时信息可能已有变化，一切均以最新消息为准。
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
 4. 除非另有提及，否则文中出现的所有实际产品均为本人自费购买，本文不构成任何购买建议。
->注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
+>注：部分阅读须知内容来自[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 ## 写在前面
 
-感谢[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对本文的补充以及存在错误的指正！
+感谢[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)对本文的补充以及存在错误的指正！
 
 之前在[fx-991CW的评测贴](https://zwolken.github.io/Calc_Review/docs/01_991CW/#%E7%AE%80%E8%A6%81%E4%BB%8B%E7%BB%8D)中提到过，我那台粉色的fx-991CW是从印尼购买的，其实一开始想买的是fx-991ID PLUS，但2022年底的印尼市场上全新的只有fx-991ID PLUS 2nd edition在销售，fx-991ID PLUS完全没货。由于fx-991ID PLUS 2nd edition的配色为黑色，实在是不喜欢，所以开始寻找二手的fx-991ID PLUS，最后是在Carousell.id上成功购入，再次也十分感谢我的代购~~（虽然她应该看不到这个贴）~~。
 

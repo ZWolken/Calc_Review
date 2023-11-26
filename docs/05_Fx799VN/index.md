@@ -18,14 +18,14 @@ Geometry（几何）模式镇楼
 
 # 阅读须知
 
-1. 除非另有声明，本文的文字、图片等均为本人创作及拍摄，未经许可不得以任何形式对本文的全部或部分内容进行转载、复制、改编、发布至其他平台等。
+1. 除非另有声明，本文的文字、图片等均为[本人](https://github.com/ZWolken)以及[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)创作及拍摄，未经许可不得以任何形式对本文的全部或部分内容进行转载、复制、改编、发布至其他平台等。
 2. 文中的信息均基于发帖日期所能获取到的最新信息，当读者阅读时信息可能已有变化，一切均以最新消息为准。
 3. 文中对计算器的描述等均属本人的主观感受，部分表述可能不够准确，若有疑惑欢迎指出。
 4. 除非另有提及，否则文中出现的所有实际产品均为本人自费购买，本文不构成任何购买建议。
 5. 本人并不认可盗版行为也不提倡购买盗版商品。
 6. Fx799VN是越南教育和培训部颁布的《高级中等学校毕业考试条例》文件所批准的机型，其内置的新增功能是经过越南教育和培训部批准的，在越南境内并不违规。本人反对一切对于大陆境内批准的考试用计算器机型的改装行为。
 7. 本文章内“盗版”、“山寨”、"fake"、"clone"均认为是同一含义，不进行区分。
->注：部分阅读须知内容来自[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
+>注：部分阅读须知内容来自[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)
 
 # 写在前面
 
@@ -33,7 +33,7 @@ Geometry（几何）模式镇楼
 
 当时对于Flexio的Fx799VN评测即在规划中，也就是现在各位看到的这一篇文章。
 
-计算器由[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)跟我一同购买，评测中对Geometry（几何）模式的介绍使用部分由[@喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)编写。
+计算器由[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)跟我一同购买，**评测中对Geometry（几何）模式的介绍使用部分由[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)编写**。
 
 评测中会出现卡西欧的fx-580VN X、fx-880BTG和fx-115ES PLUS型号的对照，出于对比目的，前两者将会设置为越南语环境。
 
@@ -181,7 +181,133 @@ do {
 
 ## 几何模式(Geometry mode)
 
-前身为在Fx680VN上实装的Point模式，后续在该模式的基础上增加了功能，变成了Fx680VN Plus上开始搭载的几何模式。也正因为此，该模式的操作逻辑十分混乱，无法想象这是正常编程能写出的程序。
+> 该部分由[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)编写。
+
+前身为在Fx680VN上实装的Point模式，后续在该模式的基础上增加了功能，变成了Fx680VN Plus上开始搭载的几何模式。也正因为此，该模式的操作逻辑十分混乱，无法想象这是正常逻辑编写程序代码能写出的程序。
+
+进入几何模式，首先要选择的是几何体类型。虽从模式界面而言说是一个模式，但它根据几何学中的基本元素，即点（Point\|Điểm）、线（Line\|Đường thẳng）、面（Plane\|Mặt phẳng）、圆（Circle\|Đường tròn）、球（Sphere\|Mặt Cầu），实际上分成了5个子模式。
+
+![选择1](../../assets/images/05_Fx799VN/26_01_select1.jpg "选择1")
+
+![选择2](../../assets/images/05_Fx799VN/26_02_select2.jpg "选择2")
+
+计算画面右下角区域显示的也是当前子模式的名称，而不是几何Geometry\|Hình học。
+
+![子模式名称](../../assets/images/05_Fx799VN/26_03_calc.jpg "子模式名称")
+
+在几何模式中，OPTN菜单内只提供了当前的所在子模式的特定功能。
+
+![OPTN菜单](../../assets/images/05_Fx799VN/26_04_optn.jpg "OPTN菜单")
+
+要在不同的子模式之间切换，或者跨几何类型的计算，都需要通过\[SHIFT\]+\[OPTN\]进入另外的的GEMO菜单，而不是在OPTN菜单中操作，按键功能层次的定位冲突导致体验非常割裂。
+
+![GEMO菜单](../../assets/images/05_Fx799VN/26_05_gemo.jpg "GEMO菜单")
+
+在“点”子模式下，可定义二维点或三维点，并可求解两点形成的直线方程（Eqn of Str line\|Pt đường thẳng）和长度（Length\|Độ dài）。
+
+![点子模式](../../assets/images/05_Fx799VN/26_06_point_optn.jpg "点子模式")
+
+![直线方程求解](../../assets/images/05_Fx799VN/26_07_point_length.jpg "直线方程求解")
+
+对于求出的直线方程结果，如果输入二维点（即平面直线），则求解出𝑦=𝑎𝑥+𝑏的形式。
+
+![输入二维点](../../assets/images/05_Fx799VN/26_08_point_line_input.jpg "输入二维点")
+
+![求解结果](../../assets/images/05_Fx799VN/26_09_point_line_result1.jpg "求解结果")
+
+若是三维点，则求解出参数方程的格式，依次给出𝑥, 𝑦, 𝑧三个方向对于𝑡的参数。这个参数方程在几何意义上，为直线上的一点与直线的方向向量。
+
+![参数方程格式](../../assets/images/05_Fx799VN/26_10_point_line_result2.jpg "参数方程格式")
+
+类似的，“圆”子模式下则可以求圆的面积。
+
+![圆子模式](../../assets/images/05_Fx799VN/26_11_circle_input.jpg "圆子模式")
+
+![圆的面积](../../assets/images/05_Fx799VN/26_12_circle_optn.jpg "圆的面积")
+
+![求解结果](../../assets/images/05_Fx799VN/26_13_circle_area.jpg "求解结果")
+
+在“球”子模式里可以求球体的表面积、体积。
+
+![球子模式](../../assets/images/05_Fx799VN/26_14_sphere_input.jpg "球子模式")
+
+![表面积、体积](../../assets/images/05_Fx799VN/26_15_sphere_input.jpg "表面积、体积")
+
+![求解结果](../../assets/images/05_Fx799VN/26_16_sphere_cacl.jpg "求解结果")
+
+但在“线”或者“面”子模式中，对于定义完成的线或者面，对应的子模式不具备各自的几何计算功能，线以及面变量只能用于跨类型计算。
+
+定义“线”时用的也是参数方程形式，可定义三个参数，如果是平面直线，将其中一个参数都设置为0即可。“面”的定义则为𝑎𝑥+𝑏𝑦+𝑐𝑧+𝑑=0的形式。
+
+![线定义](../../assets/images/05_Fx799VN/26_17_line_input.jpg "线定义")
+
+![面定义](../../assets/images/05_Fx799VN/26_18_plane_input.jpg "面定义")
+
+跨几何体类型间的计算有两类，相交计算（Intersect\|Tương giao）以及距离计算（Distance\|Khoảng cách）。先来看情况较为简单的距离计算。
+
+通过GEMO菜单进入距离计算画面后，需选择两个待计算的几何体。选择方式可以用左右方向键顺次切换，也可按下OPTN打开菜单一览后按键选择。
+
+![距离计算](../../assets/images/05_Fx799VN/26_19_distance_input.jpg "距离计算")
+
+非常奇葩的是，在这个计算功能中“点”只能选择点A、点B、点C这3个变量，点D变量直接消失了。考虑到其余4种几何体都只能定义3个，显然这是为了妥协而写出的屎山代码。
+
+![变量选择](../../assets/images/05_Fx799VN/26_20_distance_optn.jpg "变量选择")
+
+当选择的两个几何体是两个点时，该功能和在“点”子模式下用“长度”函数计算并无二异。除了计算两点距离，还可计算点到线、点到面的距离。如果输入的是两个不支持的几何体，例如计算两个面的距离，即使两面平行，也会报语法错误。
+
+![求解结果](../../assets/images/05_Fx799VN/26_21_distance_result.jpg "求解结果")
+
+相交功能计算的是两个几何体的相交情况，例如垂直、平行、相切等，交互操作方法和计算距离的一样。
+
+![相交功能计算](../../assets/images/05_Fx799VN/26_22_intersect_input.jpg "相交功能计算")
+
+![变量选择](../../assets/images/05_Fx799VN/26_23_intersect_optn.jpg "变量选择")
+
+该功能可以计算的几何体类型组合还是较为完善的，可计算两直线之间、两平面之间、两圆之间、两球体之间、直线与平面、直线与圆、直线与球体、平面和球体的相交情况。说明书中给出了较为完整的计算功能示例，这里选取部分计算结果的画面供参考。
+
+两直线垂直但不相交（也即异面垂直）\[𝑑1=(1+𝑡, 2-3𝑡, 3-5𝑡)，𝑑2=(2+2𝑡, -2-𝑡, 3+𝑡)\]
+
+![两直线垂直但不相交](../../assets/images/05_Fx799VN/26_24_intersect_result01.jpg "两直线垂直但不相交")
+
+两直线交叉（不平行不垂直不相交，也即异面直线）\[𝑑1=(1+𝑡, 1-𝑡, -2-2𝑡)，𝑑2=(2+𝑡, 1-𝑡, 1)\]
+
+![两直线交叉](../../assets/images/05_Fx799VN/26_25_intersect_result02.jpg "两直线交叉")
+
+两平面垂直 \[𝑃1: 3𝑥-5𝑦+6𝑧-3=0，𝑃2: 𝑥+3𝑦+2𝑧+5=0\]
+
+![两平面垂直](../../assets/images/05_Fx799VN/26_26_intersect_result03.jpg "两平面垂直")
+
+两平面平行 \[𝑃1: 2𝑥+2𝑦-𝑧+12=0，𝑃2: 2𝑥+2𝑦-𝑧-18=0\]
+
+![两平面平行](../../assets/images/05_Fx799VN/26_27_intersect_result04.jpg "两平面平行")
+
+两平面重合 \[𝑃1: 𝑥-𝑦+2𝑧-4=0，𝑃2: 10𝑥-10𝑦+20𝑧-40=0\]
+
+![两平面重合](../../assets/images/05_Fx799VN/26_28_intersect_result05.jpg "两平面重合")
+
+𝑥𝑂𝑦平面中，直线与圆相切于一点 \[𝑑1: 𝑥-𝑦+2=0，𝐶1: (𝑥+1)²+(𝑦+1)²=2\]（其中直线𝑑1: 𝑥-𝑦+2=0需转换成参数方程表示为(𝑡, 2+𝑡, 0)输入）
+
+![直线与圆相切于一点](../../assets/images/05_Fx799VN/26_29_intersect_result06.jpg "直线与圆相切于一点")
+
+两球不相交 \[𝑆1: (𝑥-1)²+(𝑦-1)²+(𝑧-1)²=1，𝑆2: (𝑥-3)²+(𝑦-3)²+(𝑧-3)²=1\]
+
+![两球不相交](../../assets/images/05_Fx799VN/26_30_intersect_result07.jpg "两球不相交")
+
+直线位于平面上 \[𝑑1=(-3+𝑡, 2-2𝑡, 1)，𝑃1: 2𝑥+𝑦+3𝑧+1=0\]
+
+![直线位于平面上](../../assets/images/05_Fx799VN/26_31_intersect_result08.jpg "直线位于平面上")
+
+球体与一平面相交形成一圆[𝑃1: 2𝑥+𝑦-𝑧=0，𝑆1: 𝑥²+(𝑦-1)²+(𝑧+2)²=9]
+
+![球体与一平面相交形成一圆](../../assets/images/05_Fx799VN/26_32_intersect_result09.jpg "球体与一平面相交形成一圆")
+
+不过，该功能也存在一些匪夷所思的bug。例如定义两条空间中互相垂直的直线𝑑1=(0, 5, 𝑡)，𝑑2=(𝑡, 5, 5)，计算它们的相交情况时得到的却是重合，而不是垂直。
+
+![BUG](../../assets/images/05_Fx799VN/26_33_intersect_bug1.jpg "BUG")
+
+![BUG](../../assets/images/05_Fx799VN/26_34_intersect_bug2.jpg "BUG")
+
+![BUG](../../assets/images/05_Fx799VN/26_35_intersect_bug3.jpg "BUG")
 
 ## 自定义快捷键(Function Shortcut)
 
