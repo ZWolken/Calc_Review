@@ -142,7 +142,7 @@ SETUP设置菜单不具备此特性。
 
 ## 随机字母(Random letters RanABC)
 
-于Fx680VN上实装，只支持在基础计算模式下使用，最大支持A~J范围内的字母随机，即`RanABC(2)`~`RanABC(10)`，输入1会报参数错误(Argument Error|Lỗi đối số)，超过10后会报数学错误(Math Error|Lỗi phép tính)。若在其他的模式下，要么无法输入该功能函数，要么输出的是输入设定的参数数值，而并非随机字母。
+于Fx680VN上实装，只支持在基础计算模式下使用，最大支持A~J范围内的字母随机，即`RanABC(2)`~`RanABC(10)`，输入1会报参数错误(Argument Error\|Lỗi đối số)，超过10后会报数学错误(Math Error\|Lỗi phép tính)。若在其他的模式下，要么无法输入该功能函数，要么输出的是输入设定的参数数值，而并非随机字母。
 
 ![随机字母(Random letters RanABC)](../../assets/images/05_Fx799VN/20_ranabc.jpg "随机字母(Random letters RanABC)")
 
@@ -165,7 +165,7 @@ do {
 
 于Fx680VN Plus上实装，在复数(Complex\|Số phức)模式下进入OPTN菜单，第7项`Solve Poly|Giải P(hức)thích`即为复数方程求解功能，支持二次复数方程和三次复数方程。
 
-![Solve Poly\|Giải P(hức)thích](../../assets/images/05_Fx799VN/21_solvepoly.jpg "Solve Poly\|Giải P(hức)thích")
+![Solve Poly|Giải P(hức)thích](../../assets/images/05_Fx799VN/21_solvepoly.jpg "Solve Poly|Giải P(hức)thích")
 
 这里以说明书上的举例来说明：求解𝑧²+(1−3𝑖)𝑧+(−2−2𝑖)=0
 
@@ -223,7 +223,7 @@ OPTN菜单内第一页的6个位运算符顺序跟卡西欧ClassWiz一代型号�
 
 ## 计算提示
 
-当进行长时间计算时，屏幕不会保持白屏，而是显示"Calculating...|Đangtínhtoán..."
+当进行长时间计算时，屏幕不会保持白屏，而是显示"Calculating...\|Đangtínhtoán..."
 
 ![Calculating...](../../assets/images/05_Fx799VN/33_calculating.jpg "Calculating...")
 
