@@ -181,7 +181,7 @@ do {
 
 ## 几何模式(Geometry mode)
 
-> 该部分由[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)编写。
+> 该部分由[喜羊羊第x代](https://tieba.baidu.com/home/main?id=tb.1.2062eec0.FwWcq4rwt0_gRZlb9o1EWA)编写
 
 前身为在Fx680VN上实装的Point模式，后续在该模式的基础上增加了功能，变成了Fx680VN Plus上开始搭载的几何模式。也正因为此，该模式的操作逻辑十分混乱，无法想象这是正常逻辑编写程序代码能写出的程序。
 
