@@ -30,3 +30,5 @@ nav_order: 1
 # 友情链接
 
 ## 1. 卡西欧 fx-915ES & 995ES 简评 by [MeigenChou](https://github.com/MeigenChou)：[链接](https://meigenchou.github.io/calc/ES_995_915.html)
+
+## 2. [ClassWiz CW]卡西欧 fx-991SP CW 简评 by [MeigenChou](https://github.com/MeigenChou)：[链接](https://meigenchou.github.io/calc/CW_991SPCW.html)
