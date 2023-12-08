@@ -405,7 +405,7 @@ SETUP内的语言设置将越南语设为默认，且将越南语的项目移到
 
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/43_diagnostic_01.jpg "DIAGNOATIC")
 
-一路SHIFT，顺便可以看到在卡西欧fx-580VN X中不使用的化简状态提示符被替换成了前文提及的自定义快捷键提示符。
+一路SHIFT，顺便可以看到在卡西欧fx-580VN X中不使用的化简状态提示符被替换成了前文提及的自定义快捷键提示符，自然书写模式的提示符和太阳能的提示符也均被魔改。
 
 ![DIAGNOATIC](../../assets/images/05_Fx799VN/44_diagnostic_02.jpg "DIAGNOATIC")
 
